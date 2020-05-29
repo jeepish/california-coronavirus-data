@@ -38647,7 +38647,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-05-25,Los Angeles,037,Beverly Crest,37,,-118.424404,34.11298
 2020-05-25,Los Angeles,037,Beverly Hills,130,,-118.402109,34.078543
 2020-05-25,Los Angeles,037,Beverlywood,36,,-118.394492,34.044747
-2020-05-25,Los Angeles,037,Boyle Heights*,571,,,
+2020-05-25,Los Angeles,037,Boyle Heights,571,,-118.20533,34.03815
 2020-05-25,Los Angeles,037,Bradbury,3,,-117.968387,34.153532
 2020-05-25,Los Angeles,037,Brentwood,75,,-118.485909,34.08524
 2020-05-25,Los Angeles,037,Burbank,380,,-118.323487,34.1879
@@ -38657,7 +38657,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-05-25,Los Angeles,037,Canyon Country,35,,-118.434197,34.454977
 2020-05-25,Los Angeles,037,Carson,380,,-118.255878,33.837391
 2020-05-25,Los Angeles,037,Carthay,76,,-118.372894,34.07124
-2020-05-25,Los Angeles,037,Castaic*,316,,,
+2020-05-25,Los Angeles,037,Castaic,316,,-118.628355,34.610162
 2020-05-25,Los Angeles,037,Central,335,,-118.258141,34.016399
 2020-05-25,Los Angeles,037,Century City,32,,-118.419399,34.052715
 2020-05-25,Los Angeles,037,Century Palms/Cove,204,,-118.267985,33.932641
@@ -38682,7 +38682,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-05-25,Los Angeles,037,Desert View Highlands,6,,-118.153557,34.590253
 2020-05-25,Los Angeles,037,Diamond Bar,56,,-117.81613,33.999164
 2020-05-25,Los Angeles,037,Downey,548,,-118.131148,33.937862
-2020-05-25,Los Angeles,037,Downtown*,127,,,
+2020-05-25,Los Angeles,037,Downtown,127,,-118.257803,34.044724
 2020-05-25,Los Angeles,037,Duarte,108,,-117.950531,34.16094
 2020-05-25,Los Angeles,037,Eagle Rock,165,,-118.205209,34.135207
 2020-05-25,Los Angeles,037,East Hollywood,212,,-118.292538,34.09217
@@ -38751,7 +38751,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-05-25,Los Angeles,037,Lake Manor,4,,-118.651748,34.238237
 2020-05-25,Los Angeles,037,Lakeview Terrace,101,,-118.37398,34.274649
 2020-05-25,Los Angeles,037,Lakewood,154,,-118.122171,33.84707
-2020-05-25,Los Angeles,037,Lancaster*,538,,,
+2020-05-25,Los Angeles,037,Lancaster,538,,-118.175352,34.693444
 2020-05-25,Los Angeles,037,Lawndale,107,,-118.353156,33.888463
 2020-05-25,Los Angeles,037,Leimert Park,52,,-118.32453,34.006034
 2020-05-25,Los Angeles,037,Lennox,89,,-118.358601,33.938019
@@ -38768,7 +38768,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-05-25,Los Angeles,037,Long Beach,1582,,-118.161014,33.805559
 2020-05-25,Los Angeles,037,Longwood,21,,-118.343548,34.036097
 2020-05-25,Los Angeles,037,Los Feliz,46,,-118.299672,34.131749
-2020-05-25,Los Angeles,037,Lynwood*,474,,,
+2020-05-25,Los Angeles,037,Lynwood,474,,-118.201664,33.923954
 2020-05-25,Los Angeles,037,Malibu,35,,-118.784201,34.03684
 2020-05-25,Los Angeles,037,Manchester Square,19,,-118.311191,33.967273
 2020-05-25,Los Angeles,037,Mandeville Canyon,1,,-118.508629,34.091814
@@ -38831,7 +38831,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-05-25,Los Angeles,037,San Jose Hills,54,,-117.904177,34.012262
 2020-05-25,Los Angeles,037,San Marino,22,,-118.113237,34.122367
 2020-05-25,Los Angeles,037,San Pasqual,1,,-118.102533,34.139229
-2020-05-25,Los Angeles,037,San Pedro*,843,,,
+2020-05-25,Los Angeles,037,San Pedro,843,,-118.284679,33.736684
 2020-05-25,Los Angeles,037,Santa Catalina Island,2,,-118.437421,33.384064
 2020-05-25,Los Angeles,037,Santa Clarita,677,,-118.496479,34.41748
 2020-05-25,Los Angeles,037,Santa Fe Springs,51,,-118.062518,33.933048
@@ -38859,7 +38859,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-05-25,Los Angeles,037,Sunland,138,,-118.329287,34.255065
 2020-05-25,Los Angeles,037,Sunrise Village,3,,-118.060407,34.010388
 2020-05-25,Los Angeles,037,Sycamore Square,1,,-118.343701,34.058007
-2020-05-25,Los Angeles,037,Sylmar*,727,,,
+2020-05-25,Los Angeles,037,Sylmar,727,,-118.447155,34.313096
 2020-05-25,Los Angeles,037,Tarzana,145,,-118.549107,34.156974
 2020-05-25,Los Angeles,037,Temple City,144,,-118.057952,34.102167
 2020-05-25,Los Angeles,037,Temple-Beaudry,291,,-118.26774,34.069826
@@ -38922,7 +38922,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-05-25,Los Angeles,037,Westwood,65,,-118.438137,34.065931
 2020-05-25,Los Angeles,037,White Fence Farms,5,,-118.171417,34.625588
 2020-05-25,Los Angeles,037,Whittier,273,,-118.018806,33.967844
-2020-05-25,Los Angeles,037,Wholesale District*,602,,,
+2020-05-25,Los Angeles,037,Wholesale District,602,,-118.233106,34.041547
 2020-05-25,Los Angeles,037,Willowbrook,175,,-118.251505,33.916576
 2020-05-25,Los Angeles,037,Wilmington,209,,-118.253276,33.785869
 2020-05-25,Los Angeles,037,Wilshire Center,218,,-118.295338,34.068376
