@@ -51,6 +51,8 @@ To inquire about reuse, please contact Data and Graphics Editor Ben Welsh at [be
 - [Capradio: "Track COVID-19 Cases In California By County"](https://www.capradio.org/articles/2020/03/31/track-covid-19-cases-in-california-by-county/)
 - [Race Counts: "How race, class and place fuel a pandemic"](https://www.racecounts.org/covid/)
 - [covid-19-datasette](https://covid-19.datasettes.com/covid)
+- [KQED: "How Many Coronavirus Cases Are in California? See Latest Numbers by County"](https://www.kqed.org/news/11809760/how-many-california-coronavirus-cases-see-latest-numbers-by-county)
+- [KQED: "Here Are the Trendlines for COVID-19 Deaths and Hospitalizations in Each Bay Area County"](https://www.kqed.org/science/1964968/charts-the-bay-area-is-opening-up-again-heres-tracking-data-for-each-county-to-see-how-its-going)
 
 ## Data dictionary
 
@@ -68,6 +70,7 @@ Most counties have only one agency except for Alameda and Los Angeles counties, 
 | `date`            | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                                                                 |
 | `confirmed_cases` | integer | The cumulative number of confirmed coronavirus cases as of this `date`.                                                                                                                                                             |
 | `deaths`          | integer | The cumulative number of deaths attributed to coronavirus as of this `date`.                                                                                                                                                        |
+| `recoveries`      | integer | The cumulative number of recovered cases as of this `date`. Only some agencies provide this data.                                                                                                                                   |
 | `did_not_update`  | boolean | Indicates if the agency did not provide an update on this date. If this is `true` and the case and death totals are unchanged from the previous day, this means they were holdovers. Use this flag omit these records when desired. |
 
 ### [latimes-county-totals.csv](./latimes-county-totals.csv)
