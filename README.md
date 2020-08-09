@@ -13,6 +13,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [latimes-agency-websites.csv](#latimes-agency-websitescsv)
 - [latimes-place-totals.csv](#latimes-place-totalscsv)
 - [cdph-state-totals.csv](#cdph-state-totalscsv)
+- [cdph-positive-test-rate.csv](#cdph-positive-test-ratecsv)
 - [cdph-age.csv](#cdph-agecsv)
 - [cdph-race-ethnicity.csv](#cdph-race-ethnicitycsv)
 - [cdph-skilled-nursing-totals.csv](#cdph-skilled-nursing-totalscsv)
@@ -178,6 +179,21 @@ Some dates are missing because the state did not publish a press release for tha
 | `healthcare_worker_deaths`     | integer | The total number of healthcare workers who have died from COVID-19.                                                                                                                                          |
 | `source_url`                   | string  | The URL to the state press release.                                                                                                                                                                          |
 
+### [cdph-positive-test-rate.csv](./cdph-positive-test-rate.csv)
+
+All of the data used by The Times to estimate how many recent tests have come back positive. The daily tallies of new cases and tests are drawn from [cdph-state-totals.csv](./cdph-state-totals.csv).
+
+| field                                  | type    | description                                                                                                                                            |
+| -------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                                 | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                    |
+| `confirmed_cases`                      | integer | The cumulative number of confirmed coronavirus case at that time.                                                                                      |
+| `total_tests`                          | integer | The total number of tests conducted.                                                                                                                   |
+| `new_confirmed_cases`                  | integer | The number of new confirmed cases compared to the previous date.                                                                                       |
+| `new_tests`                            | integer | The number of new tests compared to the previous date.                                                                                                 |
+| `new_confirmed_cases_seven_day_total`  | integer | The total number of new confirmed cases in the previous seven days.                                                                                    |
+| `new_tests_seven_day_total`            | integer | The total number of new tests in the previous seven days.                                                                                              |
+| `positive_test_rate_seven_day_percent` | float   | The positive test rate over the past seven days, calculated by dividing the number of new confirmed cases over that time into the number of new tests. |
+
 ### [cdph-age.csv](./cdph-age.csv)
 
 Statewide demographic data tallying totals by age for both cases and deaths. Provided by the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Cases-by-Age-Group.aspx).
@@ -231,7 +247,7 @@ In some circumstances the true total of cases is obscured. The lowest number in 
 
 ### [cdph-adult-and-senior-care-totals.csv](./cdph-adult-and-senior-care-totals.csv)
 
-California's Department of Public Health is releasing totals tracking the cumulative number of cases and deaths at the state's residential care facilities for the elderly and adult residential facilities.
+California's Department of Social Services is releasing totals tracking the cumulative number of cases and deaths at the state's residential care facilities for the elderly and adult residential facilities. The source documents are available in the [pdf/adult-and-senior-care/](pdf/adult-and-senior-care/) directory of this repository.
 
 These are also sometimes known as assisted-living facilities. Counts for staff and patients are combined in this dataset into a single total.
 
@@ -244,7 +260,7 @@ These are also sometimes known as assisted-living facilities. Counts for staff a
 
 ### [cdph-skilled-nursing-facilities.csv](./cdph-skilled-nursing-facilities.csv)
 
-California's Department of Public Health is [listing the skilled-nursing facilities](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx) across the state with COVID-19 outbreaks.
+California's Department of Social Services is [listing the skilled-nursing facilities](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx) across the state with COVID-19 outbreaks. The source documents are available in the [pdf/adult-and-senior-care/](pdf/adult-and-senior-care/) directory of this repository.
 
 In some circumstances the true total of cases is obscured. The lowest number in the range is entered into the record in the staff or patients field and an accompanying `note` field includes the set of possible values.
 
