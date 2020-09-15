@@ -1,4 +1,11 @@
 date,confirmed_cases,deaths,travel,person_to_person,community_spread,under_investigation,other_causes,self_monitoring,age_0_to_17,age_18_to_49,age_50_to_64,age_65_and_up,age_18_to_64,age_unknown,gender_male,gender_female,gender_unknown,total_tests,received_tests,pending_tests,confirmed_hospitalizations,confirmed_icu,suspected_hospitalizations,suspected_icu,healthcare_worker_infections,healthcare_worker_deaths,source_url
+2020-09-14,757778,14385,,,,,,,77560,454811,143153,81333,,921,368459,382809,6510,12806189,,,2841,921,824,119,35483,167,
+2020-09-13,754923,14329,,,,,,,77187,453134,142627,81053,,922,367162,381278,6483,12690016,,,2869,932,872,124,35344,166,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-230.aspx
+2020-09-12,750298,14251,,,,,,,76593,450341,141798,80630,,936,364731,378984,6583,12556967,,,2970,970,878,150,35107,166,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-229.aspx
+2020-09-11,746191,14089,,,,,,,76136,447876,141078,80183,,918,362679,376954,6558,12451660,,,3142,1023,881,149,34834,167,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-227.aspx
+2020-09-10,742865,13978,,,,,,,75769,445900,140488,79803,,905,361051,375254,6560,12389991,,,3288,1040,937,144,34506,164,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-226.aspx
+2020-09-09,739527,13841,,,,,,,75382,443906,139866,79476,,897,359429,373544,6554,12343979,,,3354,1072,1071,161,34318,164,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-225.aspx
+2020-09-08,737911,13758,,,,,,,75198,442946,139563,79301,,903,358617,372728,6566,12267948,,,3311,1080,986,137,34254,163,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-224.aspx
 2020-09-07,735235,13726,,,,,,,74886,441336,139067,79046,,900,357224,371456,6555,12158292,,,3308,1120,977,124,34179,163,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-223.aspx
 2020-09-06,732144,13709,,,,,,,74490,439510,138496,78740,,908,355719,369877,6548,12047191,,,3336,1091,890,110,34014,164,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-222.aspx
 2020-09-05,727239,13643,,,,,,,73915,436511,137641,78262,,910,353245,367462,6532,11916323,,,3413,1116,829,126,33689,163,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-221.aspx
