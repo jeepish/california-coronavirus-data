@@ -1,4 +1,11 @@
 date,confirmed_cases,deaths,active_cases,source_url
+2020-10-01,9666,1054,1698,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-9-30.pdf
+2020-09-30,9626,1049,1702,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-9-29.pdf
+2020-09-29,9584,1045,1677,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-9-28.pdf
+2020-09-28,9554,1043,1677,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-9-27.pdf
+2020-09-25,9481,1030,1789,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-9-24.pdf
+2020-09-24,9458,1030,1815,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-9-23.pdf
+2020-09-23,9431,1028,1837,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-9-22.pdf
 2020-09-22,9371,1024,1814,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-9-21.pdf
 2020-09-21,9315,1009,1797,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-9-20.pdf
 2020-09-18,9204,998,1934,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-9-17.pdf
