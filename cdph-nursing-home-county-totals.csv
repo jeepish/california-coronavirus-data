@@ -30,7 +30,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-05,Santa Clara,085,133,243,1,20
 2020-06-05,Santa Cruz,087,1,0,0,0
 2020-06-05,Shasta,089,2,1,0,1
-2020-06-05,Solano,095,35,98,0,12
+2020-06-05,Solano,095,35,98,0,11
 2020-06-05,Sonoma,097,3,1,1,1
 2020-06-05,Stanislaus,099,62,106,1,24
 2020-06-05,Tulare,107,162,368,1,35
@@ -67,7 +67,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-06,Santa Clara,085,134,242,1,20
 2020-06-06,Santa Cruz,087,1,0,0,0
 2020-06-06,Shasta,089,2,1,0,1
-2020-06-06,Solano,095,35,98,0,12
+2020-06-06,Solano,095,35,98,0,11
 2020-06-06,Sonoma,097,4,1,1,1
 2020-06-06,Stanislaus,099,62,106,1,24
 2020-06-06,Tulare,107,162,368,1,35
@@ -104,7 +104,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-07,Santa Clara,085,144,242,1,20
 2020-06-07,Santa Cruz,087,1,0,0,0
 2020-06-07,Shasta,089,2,1,0,1
-2020-06-07,Solano,095,35,98,0,12
+2020-06-07,Solano,095,35,98,0,11
 2020-06-07,Sonoma,097,4,1,1,1
 2020-06-07,Stanislaus,099,62,106,1,24
 2020-06-07,Tulare,107,163,376,1,35
@@ -141,7 +141,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-08,Santa Clara,085,144,242,1,21
 2020-06-08,Santa Cruz,087,1,0,0,0
 2020-06-08,Shasta,089,2,1,0,1
-2020-06-08,Solano,095,35,98,0,12
+2020-06-08,Solano,095,35,98,0,11
 2020-06-08,Sonoma,097,4,1,1,1
 2020-06-08,Stanislaus,099,62,106,1,24
 2020-06-08,Tulare,107,179,376,1,35
@@ -178,7 +178,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-09,Santa Clara,085,144,242,1,21
 2020-06-09,Santa Cruz,087,1,0,0,0
 2020-06-09,Shasta,089,2,2,0,1
-2020-06-09,Solano,095,35,98,0,12
+2020-06-09,Solano,095,35,98,0,11
 2020-06-09,Sonoma,097,4,1,1,1
 2020-06-09,Stanislaus,099,62,106,1,24
 2020-06-09,Tulare,107,179,376,1,35
@@ -215,7 +215,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-10,Santa Clara,085,144,242,1,21
 2020-06-10,Santa Cruz,087,1,0,0,0
 2020-06-10,Shasta,089,2,2,0,1
-2020-06-10,Solano,095,35,98,0,12
+2020-06-10,Solano,095,35,98,0,11
 2020-06-10,Sonoma,097,5,1,1,1
 2020-06-10,Stanislaus,099,62,106,1,24
 2020-06-10,Sutter,101,1,0,0,0
@@ -253,7 +253,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-11,Santa Clara,085,144,243,1,21
 2020-06-11,Santa Cruz,087,1,0,0,0
 2020-06-11,Shasta,089,2,2,0,1
-2020-06-11,Solano,095,36,98,0,12
+2020-06-11,Solano,095,36,98,0,11
 2020-06-11,Sonoma,097,6,1,1,1
 2020-06-11,Stanislaus,099,62,106,1,24
 2020-06-11,Sutter,101,1,0,0,0
@@ -292,7 +292,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-12,Santa Clara,085,145,243,1,21
 2020-06-12,Santa Cruz,087,1,0,0,0
 2020-06-12,Shasta,089,2,2,0,1
-2020-06-12,Solano,095,36,98,0,12
+2020-06-12,Solano,095,36,98,0,11
 2020-06-12,Sonoma,097,6,1,1,1
 2020-06-12,Stanislaus,099,62,107,1,25
 2020-06-12,Sutter,101,1,0,0,0
@@ -331,7 +331,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-13,Santa Clara,085,145,243,1,21
 2020-06-13,Santa Cruz,087,1,0,0,0
 2020-06-13,Shasta,089,2,2,0,1
-2020-06-13,Solano,095,36,98,0,12
+2020-06-13,Solano,095,36,98,0,11
 2020-06-13,Sonoma,097,6,2,1,1
 2020-06-13,Stanislaus,099,62,107,1,25
 2020-06-13,Sutter,101,1,0,0,0
@@ -370,7 +370,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-14,Santa Clara,085,146,243,1,21
 2020-06-14,Santa Cruz,087,1,0,0,0
 2020-06-14,Shasta,089,2,2,0,1
-2020-06-14,Solano,095,36,98,0,12
+2020-06-14,Solano,095,36,98,0,11
 2020-06-14,Sonoma,097,6,2,1,1
 2020-06-14,Stanislaus,099,62,107,1,25
 2020-06-14,Sutter,101,1,0,0,0
@@ -409,7 +409,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-15,Santa Clara,085,146,243,1,21
 2020-06-15,Santa Cruz,087,1,0,0,0
 2020-06-15,Shasta,089,2,2,0,1
-2020-06-15,Solano,095,36,98,0,12
+2020-06-15,Solano,095,36,98,0,11
 2020-06-15,Sonoma,097,6,2,1,1
 2020-06-15,Stanislaus,099,62,107,1,25
 2020-06-15,Sutter,101,1,0,0,0
@@ -448,7 +448,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-16,Santa Clara,085,146,243,1,21
 2020-06-16,Santa Cruz,087,1,0,0,0
 2020-06-16,Shasta,089,2,2,0,1
-2020-06-16,Solano,095,36,98,0,12
+2020-06-16,Solano,095,36,98,0,11
 2020-06-16,Sonoma,097,6,2,1,1
 2020-06-16,Stanislaus,099,62,107,1,25
 2020-06-16,Sutter,101,1,0,0,0
@@ -487,7 +487,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-17,Santa Clara,085,146,243,1,21
 2020-06-17,Santa Cruz,087,1,0,0,0
 2020-06-17,Shasta,089,2,2,0,1
-2020-06-17,Solano,095,36,98,0,12
+2020-06-17,Solano,095,36,98,0,11
 2020-06-17,Sonoma,097,6,3,1,1
 2020-06-17,Stanislaus,099,63,124,1,25
 2020-06-17,Sutter,101,1,0,0,0
@@ -526,7 +526,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-18,Santa Clara,085,147,243,1,21
 2020-06-18,Santa Cruz,087,1,0,0,0
 2020-06-18,Shasta,089,2,2,0,1
-2020-06-18,Solano,095,36,98,0,12
+2020-06-18,Solano,095,36,98,0,11
 2020-06-18,Sonoma,097,6,3,1,1
 2020-06-18,Stanislaus,099,64,124,1,25
 2020-06-18,Sutter,101,1,0,0,0
@@ -565,7 +565,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-19,Santa Clara,085,148,244,1,21
 2020-06-19,Santa Cruz,087,1,0,0,0
 2020-06-19,Shasta,089,2,2,0,1
-2020-06-19,Solano,095,36,98,0,12
+2020-06-19,Solano,095,36,98,0,11
 2020-06-19,Sonoma,097,6,3,1,1
 2020-06-19,Stanislaus,099,64,124,1,25
 2020-06-19,Sutter,101,1,0,0,0
@@ -604,7 +604,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-20,Santa Clara,085,148,244,1,21
 2020-06-20,Santa Cruz,087,1,0,0,0
 2020-06-20,Shasta,089,2,2,0,1
-2020-06-20,Solano,095,36,98,0,12
+2020-06-20,Solano,095,36,98,0,11
 2020-06-20,Sonoma,097,6,3,1,1
 2020-06-20,Stanislaus,099,65,124,1,25
 2020-06-20,Sutter,101,1,0,0,0
@@ -643,7 +643,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-21,Santa Clara,085,149,245,1,21
 2020-06-21,Santa Cruz,087,1,0,0,0
 2020-06-21,Shasta,089,2,3,0,1
-2020-06-21,Solano,095,36,98,0,12
+2020-06-21,Solano,095,36,98,0,11
 2020-06-21,Sonoma,097,6,3,1,1
 2020-06-21,Stanislaus,099,65,124,1,25
 2020-06-21,Sutter,101,1,0,0,0
@@ -682,7 +682,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-22,Santa Clara,085,149,245,1,21
 2020-06-22,Santa Cruz,087,1,0,0,0
 2020-06-22,Shasta,089,2,3,0,1
-2020-06-22,Solano,095,36,98,0,12
+2020-06-22,Solano,095,36,98,0,11
 2020-06-22,Sonoma,097,6,3,1,2
 2020-06-22,Stanislaus,099,66,124,1,25
 2020-06-22,Sutter,101,1,0,0,0
@@ -722,7 +722,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-23,Santa Clara,085,150,247,1,21
 2020-06-23,Santa Cruz,087,1,0,0,0
 2020-06-23,Shasta,089,2,3,0,1
-2020-06-23,Solano,095,36,98,0,12
+2020-06-23,Solano,095,36,98,0,11
 2020-06-23,Sonoma,097,6,3,1,2
 2020-06-23,Stanislaus,099,66,124,1,25
 2020-06-23,Sutter,101,1,0,0,0
@@ -762,7 +762,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-24,Santa Clara,085,151,248,1,21
 2020-06-24,Santa Cruz,087,1,0,0,0
 2020-06-24,Shasta,089,2,3,0,1
-2020-06-24,Solano,095,36,98,0,12
+2020-06-24,Solano,095,36,98,0,11
 2020-06-24,Sonoma,097,6,13,1,2
 2020-06-24,Stanislaus,099,66,124,1,26
 2020-06-24,Sutter,101,1,0,0,0
@@ -802,7 +802,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-25,Santa Clara,085,151,250,1,21
 2020-06-25,Santa Cruz,087,1,0,0,0
 2020-06-25,Shasta,089,2,3,0,1
-2020-06-25,Solano,095,36,98,0,12
+2020-06-25,Solano,095,36,98,0,11
 2020-06-25,Sonoma,097,6,14,1,2
 2020-06-25,Stanislaus,099,66,124,1,27
 2020-06-25,Sutter,101,1,0,0,0
@@ -842,7 +842,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-26,Santa Clara,085,153,253,1,21
 2020-06-26,Santa Cruz,087,1,0,0,0
 2020-06-26,Shasta,089,3,3,0,1
-2020-06-26,Solano,095,36,98,0,12
+2020-06-26,Solano,095,36,98,0,11
 2020-06-26,Sonoma,097,6,14,1,2
 2020-06-26,Stanislaus,099,67,124,1,27
 2020-06-26,Sutter,101,1,0,0,0
@@ -882,7 +882,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-27,Santa Clara,085,154,255,1,22
 2020-06-27,Santa Cruz,087,1,0,0,0
 2020-06-27,Shasta,089,3,3,0,1
-2020-06-27,Solano,095,36,98,0,12
+2020-06-27,Solano,095,36,98,0,11
 2020-06-27,Sonoma,097,6,14,1,2
 2020-06-27,Stanislaus,099,84,125,1,28
 2020-06-27,Sutter,101,1,0,0,0
@@ -922,7 +922,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-28,Santa Clara,085,172,267,1,22
 2020-06-28,Santa Cruz,087,1,0,0,0
 2020-06-28,Shasta,089,3,3,0,1
-2020-06-28,Solano,095,36,98,0,12
+2020-06-28,Solano,095,36,98,0,11
 2020-06-28,Sonoma,097,6,19,1,2
 2020-06-28,Stanislaus,099,67,133,1,28
 2020-06-28,Sutter,101,1,0,0,0
@@ -962,7 +962,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-29,Santa Clara,085,173,267,1,22
 2020-06-29,Santa Cruz,087,1,0,0,0
 2020-06-29,Shasta,089,3,3,0,1
-2020-06-29,Solano,095,36,98,0,12
+2020-06-29,Solano,095,36,98,0,11
 2020-06-29,Sonoma,097,6,20,1,2
 2020-06-29,Stanislaus,099,67,133,1,28
 2020-06-29,Sutter,101,1,0,0,0
@@ -1002,7 +1002,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-30,Santa Clara,085,174,268,1,22
 2020-06-30,Santa Cruz,087,1,0,0,0
 2020-06-30,Shasta,089,3,3,0,1
-2020-06-30,Solano,095,36,98,0,12
+2020-06-30,Solano,095,36,98,0,11
 2020-06-30,Sonoma,097,6,24,1,2
 2020-06-30,Stanislaus,099,67,133,1,28
 2020-06-30,Sutter,101,2,0,0,0
@@ -1042,7 +1042,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-01,Santa Clara,085,186,282,1,23
 2020-07-01,Santa Cruz,087,1,1,0,0
 2020-07-01,Shasta,089,3,3,0,1
-2020-07-01,Solano,095,36,98,0,12
+2020-07-01,Solano,095,36,98,0,11
 2020-07-01,Sonoma,097,7,24,1,2
 2020-07-01,Stanislaus,099,67,133,1,28
 2020-07-01,Sutter,101,2,0,0,0
@@ -1082,7 +1082,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-02,Santa Clara,085,188,283,1,23
 2020-07-02,Santa Cruz,087,1,1,0,0
 2020-07-02,Shasta,089,3,3,0,1
-2020-07-02,Solano,095,36,98,0,12
+2020-07-02,Solano,095,36,98,0,11
 2020-07-02,Sonoma,097,7,24,1,2
 2020-07-02,Stanislaus,099,69,133,1,28
 2020-07-02,Sutter,101,2,0,0,0
@@ -1123,7 +1123,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-03,Santa Clara,085,188,283,1,23
 2020-07-03,Santa Cruz,087,1,1,0,0
 2020-07-03,Shasta,089,3,3,0,1
-2020-07-03,Solano,095,36,98,0,12
+2020-07-03,Solano,095,36,98,0,11
 2020-07-03,Sonoma,097,9,25,1,2
 2020-07-03,Stanislaus,099,69,140,1,28
 2020-07-03,Sutter,101,2,0,0,0
@@ -1165,7 +1165,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-04,Santa Clara,085,189,288,1,24
 2020-07-04,Santa Cruz,087,1,1,0,0
 2020-07-04,Shasta,089,3,3,0,1
-2020-07-04,Solano,095,36,98,0,12
+2020-07-04,Solano,095,36,98,0,11
 2020-07-04,Sonoma,097,9,25,1,2
 2020-07-04,Stanislaus,099,69,143,1,28
 2020-07-04,Sutter,101,2,0,0,0
@@ -1207,7 +1207,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-05,Santa Clara,085,191,292,1,24
 2020-07-05,Santa Cruz,087,1,1,0,0
 2020-07-05,Shasta,089,3,3,0,1
-2020-07-05,Solano,095,36,98,0,12
+2020-07-05,Solano,095,36,98,0,11
 2020-07-05,Sonoma,097,10,25,1,2
 2020-07-05,Stanislaus,099,80,162,1,28
 2020-07-05,Sutter,101,2,0,0,0
@@ -1249,7 +1249,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-06,Santa Clara,085,191,292,1,24
 2020-07-06,Santa Cruz,087,1,1,0,0
 2020-07-06,Shasta,089,3,3,0,1
-2020-07-06,Solano,095,36,98,0,12
+2020-07-06,Solano,095,36,98,0,11
 2020-07-06,Sonoma,097,22,32,1,2
 2020-07-06,Stanislaus,099,81,166,1,28
 2020-07-06,Sutter,101,2,0,0,0
@@ -1291,7 +1291,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-07,Santa Clara,085,191,293,1,24
 2020-07-07,Santa Cruz,087,2,2,0,0
 2020-07-07,Shasta,089,3,3,0,1
-2020-07-07,Solano,095,36,98,0,12
+2020-07-07,Solano,095,36,98,0,11
 2020-07-07,Sonoma,097,23,32,1,2
 2020-07-07,Stanislaus,099,101,166,1,28
 2020-07-07,Sutter,101,2,0,0,0
@@ -1333,7 +1333,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-08,Santa Clara,085,213,294,1,24
 2020-07-08,Santa Cruz,087,2,3,0,0
 2020-07-08,Shasta,089,3,3,0,1
-2020-07-08,Solano,095,36,98,0,12
+2020-07-08,Solano,095,36,98,0,11
 2020-07-08,Sonoma,097,23,32,1,2
 2020-07-08,Stanislaus,099,101,167,1,28
 2020-07-08,Sutter,101,2,0,0,0
@@ -1376,7 +1376,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-09,Santa Clara,085,223,302,1,25
 2020-07-09,Santa Cruz,087,5,4,0,0
 2020-07-09,Shasta,089,3,3,0,1
-2020-07-09,Solano,095,37,98,0,12
+2020-07-09,Solano,095,37,98,0,11
 2020-07-09,Sonoma,097,26,34,1,2
 2020-07-09,Stanislaus,099,102,168,1,28
 2020-07-09,Sutter,101,2,0,0,0
@@ -1419,7 +1419,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-10,Santa Clara,085,231,308,1,26
 2020-07-10,Santa Cruz,087,6,4,0,0
 2020-07-10,Shasta,089,3,3,0,1
-2020-07-10,Solano,095,37,98,0,12
+2020-07-10,Solano,095,37,98,0,11
 2020-07-10,Sonoma,097,27,35,1,2
 2020-07-10,Stanislaus,099,106,170,1,38
 2020-07-10,Sutter,101,2,0,0,0
@@ -1436,7 +1436,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-11,Fresno,019,92,184,2,38
 2020-07-11,Humboldt,023,2,2,1,2
 2020-07-11,Imperial,025,92,104,1,2
-2020-07-11,Kern,029,200,280,0,22
+2020-07-11,Kern,029,199,280,0,22
 2020-07-11,Kings,031,57,70,0,18
 2020-07-11,Los Angeles,037,5032,8733,50,1341
 2020-07-11,Madera,039,12,1,0,0
@@ -1462,7 +1462,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-11,Santa Clara,085,234,308,1,26
 2020-07-11,Santa Cruz,087,6,5,0,0
 2020-07-11,Shasta,089,3,3,0,1
-2020-07-11,Solano,095,38,98,0,12
+2020-07-11,Solano,095,38,98,0,11
 2020-07-11,Sonoma,097,28,35,1,2
 2020-07-11,Stanislaus,099,106,175,1,38
 2020-07-11,Sutter,101,2,0,0,0
@@ -1480,7 +1480,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-12,Fresno,019,94,185,2,38
 2020-07-12,Humboldt,023,2,2,1,2
 2020-07-12,Imperial,025,92,104,1,12
-2020-07-12,Kern,029,200,281,0,22
+2020-07-12,Kern,029,199,281,0,22
 2020-07-12,Kings,031,57,70,0,18
 2020-07-12,Los Angeles,037,5055,8783,50,1343
 2020-07-12,Madera,039,13,16,0,1
@@ -1506,7 +1506,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-12,Santa Clara,085,237,314,1,26
 2020-07-12,Santa Cruz,087,6,5,0,0
 2020-07-12,Shasta,089,3,3,0,1
-2020-07-12,Solano,095,38,98,0,12
+2020-07-12,Solano,095,38,98,0,11
 2020-07-12,Sonoma,097,28,38,1,2
 2020-07-12,Stanislaus,099,106,176,1,28
 2020-07-12,Sutter,101,2,0,0,0
@@ -1524,7 +1524,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-13,Fresno,019,98,185,2,38
 2020-07-13,Humboldt,023,2,2,1,2
 2020-07-13,Imperial,025,92,104,1,15
-2020-07-13,Kern,029,210,281,0,22
+2020-07-13,Kern,029,209,281,0,22
 2020-07-13,Kings,031,57,70,0,18
 2020-07-13,Los Angeles,037,5140,8820,50,1347
 2020-07-13,Madera,039,16,16,0,1
@@ -1550,7 +1550,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-13,Santa Clara,085,240,314,1,27
 2020-07-13,Santa Cruz,087,6,5,0,0
 2020-07-13,Shasta,089,3,3,0,1
-2020-07-13,Solano,095,38,98,0,12
+2020-07-13,Solano,095,38,98,0,11
 2020-07-13,Sonoma,097,29,42,1,2
 2020-07-13,Stanislaus,099,107,176,1,29
 2020-07-13,Sutter,101,2,0,0,0
@@ -1568,7 +1568,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-14,Fresno,019,98,196,2,38
 2020-07-14,Humboldt,023,2,2,1,2
 2020-07-14,Imperial,025,92,104,1,18
-2020-07-14,Kern,029,210,282,0,22
+2020-07-14,Kern,029,209,282,0,22
 2020-07-14,Kings,031,57,70,0,18
 2020-07-14,Los Angeles,037,5206,8906,50,1350
 2020-07-14,Madera,039,16,20,0,1
@@ -1594,7 +1594,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-14,Santa Clara,085,240,314,1,27
 2020-07-14,Santa Cruz,087,6,5,0,0
 2020-07-14,Shasta,089,3,3,0,1
-2020-07-14,Solano,095,39,100,0,12
+2020-07-14,Solano,095,39,100,0,11
 2020-07-14,Sonoma,097,29,47,1,4
 2020-07-14,Stanislaus,099,118,211,1,29
 2020-07-14,Sutter,101,2,0,0,0
@@ -1612,7 +1612,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-15,Fresno,019,111,196,2,38
 2020-07-15,Humboldt,023,2,2,1,2
 2020-07-15,Imperial,025,92,104,1,18
-2020-07-15,Kern,029,220,282,0,23
+2020-07-15,Kern,029,219,282,0,23
 2020-07-15,Kings,031,58,70,0,18
 2020-07-15,Los Angeles,037,5277,8953,51,1373
 2020-07-15,Madera,039,16,26,0,1
@@ -1638,7 +1638,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-15,Santa Clara,085,250,314,1,27
 2020-07-15,Santa Cruz,087,6,5,0,0
 2020-07-15,Shasta,089,3,3,0,1
-2020-07-15,Solano,095,39,100,0,12
+2020-07-15,Solano,095,39,100,0,11
 2020-07-15,Sonoma,097,29,49,1,4
 2020-07-15,Stanislaus,099,118,212,1,39
 2020-07-15,Sutter,101,2,0,0,0
@@ -1656,7 +1656,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-16,Fresno,019,122,208,2,38
 2020-07-16,Humboldt,023,2,2,1,2
 2020-07-16,Imperial,025,93,105,1,18
-2020-07-16,Kern,029,229,285,0,23
+2020-07-16,Kern,029,228,285,0,23
 2020-07-16,Kings,031,76,88,0,23
 2020-07-16,Los Angeles,037,5342,8985,51,1378
 2020-07-16,Madera,039,16,26,0,1
@@ -1682,7 +1682,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-16,Santa Clara,085,252,324,1,27
 2020-07-16,Santa Cruz,087,6,5,0,0
 2020-07-16,Shasta,089,3,3,0,1
-2020-07-16,Solano,095,39,100,0,12
+2020-07-16,Solano,095,39,100,0,11
 2020-07-16,Sonoma,097,29,49,1,4
 2020-07-16,Stanislaus,099,119,212,1,39
 2020-07-16,Sutter,101,2,0,0,0
@@ -1701,7 +1701,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-17,Glenn,021,1,0,0,0
 2020-07-17,Humboldt,023,2,2,1,2
 2020-07-17,Imperial,025,94,105,1,18
-2020-07-17,Kern,029,240,286,0,23
+2020-07-17,Kern,029,239,286,0,23
 2020-07-17,Kings,031,77,88,0,23
 2020-07-17,Los Angeles,037,5392,9026,51,1384
 2020-07-17,Madera,039,19,27,0,1
@@ -1727,7 +1727,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-17,Santa Clara,085,254,330,1,27
 2020-07-17,Santa Cruz,087,6,5,0,0
 2020-07-17,Shasta,089,3,3,0,1
-2020-07-17,Solano,095,39,100,0,12
+2020-07-17,Solano,095,39,100,0,11
 2020-07-17,Sonoma,097,29,61,1,4
 2020-07-17,Stanislaus,099,119,212,1,39
 2020-07-17,Sutter,101,2,0,0,0
@@ -1746,7 +1746,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-18,Glenn,021,1,0,0,0
 2020-07-18,Humboldt,023,2,2,1,2
 2020-07-18,Imperial,025,94,105,1,18
-2020-07-18,Kern,029,250,286,0,23
+2020-07-18,Kern,029,249,286,0,23
 2020-07-18,Kings,031,77,89,0,23
 2020-07-18,Los Angeles,037,5458,9085,51,1386
 2020-07-18,Madera,039,20,35,0,1
@@ -1772,7 +1772,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-18,Santa Clara,085,256,332,1,27
 2020-07-18,Santa Cruz,087,6,5,0,0
 2020-07-18,Shasta,089,3,3,0,1
-2020-07-18,Solano,095,39,100,0,12
+2020-07-18,Solano,095,39,100,0,11
 2020-07-18,Sonoma,097,42,74,1,4
 2020-07-18,Stanislaus,099,131,231,1,39
 2020-07-18,Sutter,101,2,0,0,0
@@ -1791,7 +1791,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-19,Glenn,021,1,0,0,0
 2020-07-19,Humboldt,023,2,2,1,2
 2020-07-19,Imperial,025,94,105,1,18
-2020-07-19,Kern,029,252,286,0,23
+2020-07-19,Kern,029,251,286,0,23
 2020-07-19,Kings,031,77,89,0,23
 2020-07-19,Los Angeles,037,5510,9136,51,1388
 2020-07-19,Madera,039,20,35,0,1
@@ -1817,7 +1817,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-19,Santa Clara,085,267,333,1,27
 2020-07-19,Santa Cruz,087,6,5,0,0
 2020-07-19,Shasta,089,3,3,0,1
-2020-07-19,Solano,095,39,100,0,12
+2020-07-19,Solano,095,39,100,0,11
 2020-07-19,Sonoma,097,43,76,1,4
 2020-07-19,Stanislaus,099,135,243,1,39
 2020-07-19,Sutter,101,2,0,0,0
@@ -1836,7 +1836,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-20,Glenn,021,1,0,0,0
 2020-07-20,Humboldt,023,2,2,1,2
 2020-07-20,Imperial,025,94,105,1,18
-2020-07-20,Kern,029,252,286,0,24
+2020-07-20,Kern,029,251,286,0,24
 2020-07-20,Kings,031,77,89,0,23
 2020-07-20,Los Angeles,037,5547,9171,51,1401
 2020-07-20,Madera,039,20,36,0,1
@@ -1862,7 +1862,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-20,Santa Clara,085,269,334,1,27
 2020-07-20,Santa Cruz,087,6,5,0,0
 2020-07-20,Shasta,089,3,3,0,1
-2020-07-20,Solano,095,39,100,0,12
+2020-07-20,Solano,095,39,100,0,11
 2020-07-20,Sonoma,097,43,77,1,4
 2020-07-20,Stanislaus,099,146,245,1,39
 2020-07-20,Sutter,101,2,0,0,0
@@ -1881,7 +1881,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-21,Glenn,021,1,0,0,0
 2020-07-21,Humboldt,023,2,2,1,2
 2020-07-21,Imperial,025,94,105,1,18
-2020-07-21,Kern,029,254,315,0,24
+2020-07-21,Kern,029,253,315,0,24
 2020-07-21,Kings,031,77,90,0,23
 2020-07-21,Los Angeles,037,5636,9228,51,1405
 2020-07-21,Madera,039,20,36,0,1
@@ -1907,7 +1907,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-21,Santa Clara,085,286,346,1,28
 2020-07-21,Santa Cruz,087,6,5,0,0
 2020-07-21,Shasta,089,3,3,0,1
-2020-07-21,Solano,095,39,111,0,12
+2020-07-21,Solano,095,39,111,0,11
 2020-07-21,Sonoma,097,45,82,1,4
 2020-07-21,Stanislaus,099,147,276,1,41
 2020-07-21,Sutter,101,2,0,0,0
@@ -1926,7 +1926,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-22,Glenn,021,1,0,0,0
 2020-07-22,Humboldt,023,2,2,1,2
 2020-07-22,Imperial,025,94,105,1,18
-2020-07-22,Kern,029,259,323,0,24
+2020-07-22,Kern,029,258,323,0,24
 2020-07-22,Kings,031,77,90,0,23
 2020-07-22,Los Angeles,037,5695,9273,51,1407
 2020-07-22,Madera,039,24,44,0,1
@@ -1952,7 +1952,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-22,Santa Clara,085,289,346,1,28
 2020-07-22,Santa Cruz,087,6,5,0,0
 2020-07-22,Shasta,089,3,3,0,1
-2020-07-22,Solano,095,39,111,0,12
+2020-07-22,Solano,095,39,111,0,11
 2020-07-22,Sonoma,097,46,93,1,4
 2020-07-22,Stanislaus,099,147,279,1,42
 2020-07-22,Sutter,101,3,1,0,0
@@ -1971,7 +1971,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-23,Glenn,021,1,0,0,0
 2020-07-23,Humboldt,023,2,2,1,2
 2020-07-23,Imperial,025,94,105,1,18
-2020-07-23,Kern,029,263,326,0,25
+2020-07-23,Kern,029,262,326,0,25
 2020-07-23,Kings,031,77,90,0,23
 2020-07-23,Los Angeles,037,5741,9377,51,1411
 2020-07-23,Madera,039,29,50,0,1
@@ -1997,7 +1997,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-23,Santa Clara,085,291,346,1,28
 2020-07-23,Santa Cruz,087,6,5,0,0
 2020-07-23,Shasta,089,3,3,0,1
-2020-07-23,Solano,095,39,111,0,12
+2020-07-23,Solano,095,39,111,0,11
 2020-07-23,Sonoma,097,48,97,1,5
 2020-07-23,Stanislaus,099,145,282,1,42
 2020-07-23,Sutter,101,3,1,0,0
@@ -2016,7 +2016,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-24,Glenn,021,1,0,0,0
 2020-07-24,Humboldt,023,2,2,1,2
 2020-07-24,Imperial,025,95,105,1,18
-2020-07-24,Kern,029,266,328,0,25
+2020-07-24,Kern,029,265,328,0,25
 2020-07-24,Kings,031,77,90,0,23
 2020-07-24,Los Angeles,037,5795,9452,51,1423
 2020-07-24,Madera,039,41,54,0,2
@@ -2042,7 +2042,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-24,Santa Clara,085,293,347,1,29
 2020-07-24,Santa Cruz,087,6,5,0,0
 2020-07-24,Shasta,089,3,3,0,1
-2020-07-24,Solano,095,39,111,0,12
+2020-07-24,Solano,095,39,111,0,11
 2020-07-24,Sonoma,097,48,98,1,5
 2020-07-24,Stanislaus,099,146,283,1,42
 2020-07-24,Sutter,101,3,1,0,0
@@ -2061,7 +2061,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-25,Glenn,021,1,0,0,0
 2020-07-25,Humboldt,023,2,2,1,2
 2020-07-25,Imperial,025,95,105,1,18
-2020-07-25,Kern,029,271,344,0,25
+2020-07-25,Kern,029,270,344,0,25
 2020-07-25,Kings,031,77,90,0,23
 2020-07-25,Los Angeles,037,5873,9510,51,1426
 2020-07-25,Madera,039,45,75,0,2
@@ -2087,7 +2087,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-25,Santa Clara,085,296,349,1,30
 2020-07-25,Santa Cruz,087,6,5,0,0
 2020-07-25,Shasta,089,3,3,0,1
-2020-07-25,Solano,095,39,111,0,12
+2020-07-25,Solano,095,39,111,0,11
 2020-07-25,Sonoma,097,60,117,1,5
 2020-07-25,Stanislaus,099,160,307,1,44
 2020-07-25,Sutter,101,3,1,0,0
@@ -2106,7 +2106,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-26,Glenn,021,1,0,0,0
 2020-07-26,Humboldt,023,2,2,1,2
 2020-07-26,Imperial,025,95,105,1,18
-2020-07-26,Kern,029,273,353,0,26
+2020-07-26,Kern,029,272,353,0,26
 2020-07-26,Kings,031,77,90,0,23
 2020-07-26,Los Angeles,037,5910,9551,51,1448
 2020-07-26,Madera,039,46,77,0,2
@@ -2132,7 +2132,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-26,Santa Clara,085,297,349,1,30
 2020-07-26,Santa Cruz,087,6,5,0,0
 2020-07-26,Shasta,089,3,3,0,1
-2020-07-26,Solano,095,40,113,0,12
+2020-07-26,Solano,095,40,113,0,11
 2020-07-26,Sonoma,097,61,133,1,5
 2020-07-26,Stanislaus,099,170,308,1,44
 2020-07-26,Sutter,101,3,1,0,0
@@ -2151,7 +2151,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-27,Glenn,021,1,0,0,0
 2020-07-27,Humboldt,023,2,2,1,2
 2020-07-27,Imperial,025,96,105,1,18
-2020-07-27,Kern,029,278,364,0,26
+2020-07-27,Kern,029,277,364,0,26
 2020-07-27,Kings,031,77,90,0,23
 2020-07-27,Los Angeles,037,6019,9586,51,1463
 2020-07-27,Madera,039,47,79,0,2
@@ -2177,7 +2177,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-27,Santa Clara,085,297,349,1,30
 2020-07-27,Santa Cruz,087,6,5,0,0
 2020-07-27,Shasta,089,3,3,0,1
-2020-07-27,Solano,095,41,113,0,12
+2020-07-27,Solano,095,41,113,0,11
 2020-07-27,Sonoma,097,64,135,1,5
 2020-07-27,Stanislaus,099,183,326,1,44
 2020-07-27,Sutter,101,3,1,0,0
@@ -2197,7 +2197,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-28,Glenn,021,1,0,0,0
 2020-07-28,Humboldt,023,2,2,1,2
 2020-07-28,Imperial,025,96,105,1,18
-2020-07-28,Kern,029,282,369,0,26
+2020-07-28,Kern,029,281,369,0,26
 2020-07-28,Kings,031,77,90,0,23
 2020-07-28,Los Angeles,037,6084,9622,51,1468
 2020-07-28,Madera,039,49,100,0,2
@@ -2223,7 +2223,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-28,Santa Clara,085,299,350,1,30
 2020-07-28,Santa Cruz,087,6,5,0,0
 2020-07-28,Shasta,089,4,3,0,1
-2020-07-28,Solano,095,41,113,0,12
+2020-07-28,Solano,095,41,113,0,11
 2020-07-28,Sonoma,097,65,135,1,5
 2020-07-28,Stanislaus,099,184,336,1,46
 2020-07-28,Sutter,101,3,1,0,0
@@ -2243,7 +2243,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-29,Glenn,021,1,0,0,0
 2020-07-29,Humboldt,023,2,2,1,2
 2020-07-29,Imperial,025,96,105,1,18
-2020-07-29,Kern,029,291,373,0,26
+2020-07-29,Kern,029,290,373,0,26
 2020-07-29,Kings,031,77,90,0,23
 2020-07-29,Los Angeles,037,6166,9713,52,1477
 2020-07-29,Madera,039,50,106,0,2
@@ -2269,7 +2269,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-29,Santa Clara,085,303,350,1,30
 2020-07-29,Santa Cruz,087,6,5,0,0
 2020-07-29,Shasta,089,4,3,0,1
-2020-07-29,Solano,095,41,113,0,12
+2020-07-29,Solano,095,41,113,0,11
 2020-07-29,Sonoma,097,76,138,1,5
 2020-07-29,Stanislaus,099,198,343,1,46
 2020-07-29,Sutter,101,3,1,0,0
@@ -2289,7 +2289,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-30,Glenn,021,1,0,0,0
 2020-07-30,Humboldt,023,2,2,1,2
 2020-07-30,Imperial,025,96,105,1,18
-2020-07-30,Kern,029,293,374,0,26
+2020-07-30,Kern,029,292,374,0,26
 2020-07-30,Kings,031,77,90,0,23
 2020-07-30,Los Angeles,037,6197,9749,52,1493
 2020-07-30,Madera,039,51,109,0,2
@@ -2315,7 +2315,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-30,Santa Clara,085,304,350,1,30
 2020-07-30,Santa Cruz,087,6,5,0,0
 2020-07-30,Shasta,089,4,3,0,1
-2020-07-30,Solano,095,41,113,0,12
+2020-07-30,Solano,095,41,113,0,11
 2020-07-30,Sonoma,097,81,153,1,5
 2020-07-30,Stanislaus,099,211,357,1,47
 2020-07-30,Sutter,101,3,1,0,0
@@ -2335,7 +2335,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-31,Glenn,021,1,0,0,0
 2020-07-31,Humboldt,023,2,2,1,2
 2020-07-31,Imperial,025,97,105,1,18
-2020-07-31,Kern,029,305,376,0,27
+2020-07-31,Kern,029,304,376,0,27
 2020-07-31,Kings,031,77,90,0,23
 2020-07-31,Los Angeles,037,6307,9840,52,1520
 2020-07-31,Madera,039,51,110,0,12
@@ -2361,7 +2361,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-31,Santa Clara,085,307,350,1,30
 2020-07-31,Santa Cruz,087,6,5,0,0
 2020-07-31,Shasta,089,4,3,0,1
-2020-07-31,Solano,095,41,113,0,12
+2020-07-31,Solano,095,41,113,0,11
 2020-07-31,Sonoma,097,81,158,1,5
 2020-07-31,Stanislaus,099,216,371,1,47
 2020-07-31,Sutter,101,3,1,0,0
@@ -2381,7 +2381,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-01,Glenn,021,1,0,0,0
 2020-08-01,Humboldt,023,2,2,1,2
 2020-08-01,Imperial,025,97,105,1,18
-2020-08-01,Kern,029,319,378,0,27
+2020-08-01,Kern,029,318,378,0,27
 2020-08-01,Kings,031,77,90,0,23
 2020-08-01,Los Angeles,037,6381,9982,52,1524
 2020-08-01,Madera,039,51,111,0,12
@@ -2407,7 +2407,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-01,Santa Clara,085,308,350,1,30
 2020-08-01,Santa Cruz,087,6,5,0,0
 2020-08-01,Shasta,089,4,3,0,1
-2020-08-01,Solano,095,41,113,0,12
+2020-08-01,Solano,095,41,113,0,11
 2020-08-01,Sonoma,097,83,160,1,5
 2020-08-01,Stanislaus,099,217,386,2,47
 2020-08-01,Sutter,101,3,1,0,0
@@ -2427,7 +2427,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-02,Glenn,021,1,0,0,0
 2020-08-02,Humboldt,023,2,2,1,2
 2020-08-02,Imperial,025,97,117,2,19
-2020-08-02,Kern,029,320,378,0,27
+2020-08-02,Kern,029,319,378,0,27
 2020-08-02,Kings,031,77,90,0,23
 2020-08-02,Los Angeles,037,6404,10016,52,1526
 2020-08-02,Madera,039,51,111,0,13
@@ -2453,7 +2453,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-02,Santa Clara,085,310,350,1,30
 2020-08-02,Santa Cruz,087,7,5,0,0
 2020-08-02,Shasta,089,4,3,0,1
-2020-08-02,Solano,095,41,113,0,12
+2020-08-02,Solano,095,41,113,0,11
 2020-08-02,Sonoma,097,86,168,1,5
 2020-08-02,Stanislaus,099,233,394,2,48
 2020-08-02,Sutter,101,3,1,0,0
@@ -2474,7 +2474,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-03,Humboldt,023,2,2,1,2
 2020-08-03,Imperial,025,97,117,2,19
 2020-08-03,Inyo,027,1,1,0,0
-2020-08-03,Kern,029,325,378,0,27
+2020-08-03,Kern,029,324,378,0,27
 2020-08-03,Kings,031,77,90,0,23
 2020-08-03,Los Angeles,037,6465,10078,52,1539
 2020-08-03,Madera,039,53,111,0,13
@@ -2500,7 +2500,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-03,Santa Clara,085,312,350,1,30
 2020-08-03,Santa Cruz,087,7,5,0,0
 2020-08-03,Shasta,089,4,3,0,1
-2020-08-03,Solano,095,41,113,0,12
+2020-08-03,Solano,095,41,113,0,11
 2020-08-03,Sonoma,097,95,169,1,6
 2020-08-03,Stanislaus,099,235,406,2,48
 2020-08-03,Sutter,101,3,1,0,0
@@ -2521,7 +2521,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-04,Humboldt,023,2,2,1,2
 2020-08-04,Imperial,025,97,116,1,19
 2020-08-04,Inyo,027,1,1,0,0
-2020-08-04,Kern,029,336,378,0,27
+2020-08-04,Kern,029,334,378,0,27
 2020-08-04,Kings,031,77,90,0,23
 2020-08-04,Los Angeles,037,6498,10102,53,1553
 2020-08-04,Madera,039,55,125,0,13
@@ -2547,7 +2547,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-04,Santa Clara,085,313,350,1,30
 2020-08-04,Santa Cruz,087,7,5,0,0
 2020-08-04,Shasta,089,4,3,0,1
-2020-08-04,Solano,095,41,113,0,12
+2020-08-04,Solano,095,41,113,0,11
 2020-08-04,Sonoma,097,98,166,1,6
 2020-08-04,Stanislaus,099,236,430,2,51
 2020-08-04,Sutter,101,3,1,0,0
@@ -2568,7 +2568,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-05,Humboldt,023,2,2,1,2
 2020-08-05,Imperial,025,97,115,1,19
 2020-08-05,Inyo,027,1,1,0,0
-2020-08-05,Kern,029,337,384,0,27
+2020-08-05,Kern,029,335,384,0,27
 2020-08-05,Kings,031,77,90,0,23
 2020-08-05,Los Angeles,037,6544,10177,55,1555
 2020-08-05,Madera,039,55,126,0,13
@@ -2594,7 +2594,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-05,Santa Clara,085,316,350,1,30
 2020-08-05,Santa Cruz,087,7,5,0,0
 2020-08-05,Shasta,089,4,3,0,1
-2020-08-05,Solano,095,41,114,0,12
+2020-08-05,Solano,095,41,114,0,11
 2020-08-05,Sonoma,097,108,192,1,6
 2020-08-05,Stanislaus,099,237,437,2,51
 2020-08-05,Sutter,101,3,1,0,0
@@ -2615,7 +2615,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-06,Humboldt,023,2,2,1,2
 2020-08-06,Imperial,025,97,117,1,19
 2020-08-06,Inyo,027,1,19,0,0
-2020-08-06,Kern,029,359,384,0,27
+2020-08-06,Kern,029,355,384,0,27
 2020-08-06,Kings,031,77,90,0,23
 2020-08-06,Los Angeles,037,6572,10218,55,1560
 2020-08-06,Madera,039,56,127,0,14
@@ -2641,7 +2641,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-06,Santa Clara,085,316,360,1,30
 2020-08-06,Santa Cruz,087,7,5,0,0
 2020-08-06,Shasta,089,4,3,0,1
-2020-08-06,Solano,095,41,115,0,12
+2020-08-06,Solano,095,41,115,0,11
 2020-08-06,Sonoma,097,110,206,1,6
 2020-08-06,Stanislaus,099,275,456,2,52
 2020-08-06,Sutter,101,16,2,0,0
@@ -2662,7 +2662,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-07,Humboldt,023,2,2,1,2
 2020-08-07,Imperial,025,98,117,1,19
 2020-08-07,Inyo,027,1,19,0,1
-2020-08-07,Kern,029,364,388,0,27
+2020-08-07,Kern,029,360,388,0,27
 2020-08-07,Kings,031,77,90,0,23
 2020-08-07,Los Angeles,037,6618,10263,56,1563
 2020-08-07,Madera,039,57,127,0,15
@@ -2688,7 +2688,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-07,Santa Clara,085,316,362,1,31
 2020-08-07,Santa Cruz,087,7,5,0,0
 2020-08-07,Shasta,089,4,4,0,1
-2020-08-07,Solano,095,42,115,0,12
+2020-08-07,Solano,095,42,115,0,11
 2020-08-07,Sonoma,097,110,212,1,7
 2020-08-07,Stanislaus,099,279,465,2,52
 2020-08-07,Sutter,101,16,2,0,0
@@ -2709,7 +2709,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-08,Humboldt,023,3,2,1,2
 2020-08-08,Imperial,025,98,117,1,19
 2020-08-08,Inyo,027,1,19,0,1
-2020-08-08,Kern,029,365,388,0,27
+2020-08-08,Kern,029,361,388,0,27
 2020-08-08,Kings,031,77,90,0,23
 2020-08-08,Los Angeles,037,6646,10296,56,1566
 2020-08-08,Madera,039,57,127,0,16
@@ -2735,7 +2735,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-08,Santa Clara,085,317,363,1,31
 2020-08-08,Santa Cruz,087,7,5,0,0
 2020-08-08,Shasta,089,4,4,0,1
-2020-08-08,Solano,095,42,115,0,12
+2020-08-08,Solano,095,42,115,0,11
 2020-08-08,Sonoma,097,110,219,1,7
 2020-08-08,Stanislaus,099,280,469,2,52
 2020-08-08,Sutter,101,16,2,0,0
@@ -2756,7 +2756,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-09,Humboldt,023,3,2,1,2
 2020-08-09,Imperial,025,98,125,1,19
 2020-08-09,Inyo,027,1,19,0,1
-2020-08-09,Kern,029,366,388,0,27
+2020-08-09,Kern,029,362,388,0,27
 2020-08-09,Kings,031,77,90,0,23
 2020-08-09,Los Angeles,037,6688,10338,56,1568
 2020-08-09,Madera,039,58,127,0,16
@@ -2782,7 +2782,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-09,Santa Clara,085,319,363,1,31
 2020-08-09,Santa Cruz,087,7,5,0,0
 2020-08-09,Shasta,089,4,4,0,1
-2020-08-09,Solano,095,42,115,0,12
+2020-08-09,Solano,095,42,115,0,11
 2020-08-09,Sonoma,097,110,221,1,7
 2020-08-09,Stanislaus,099,286,473,2,52
 2020-08-09,Sutter,101,16,2,0,0
@@ -2803,7 +2803,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-10,Humboldt,023,3,2,1,2
 2020-08-10,Imperial,025,98,125,1,19
 2020-08-10,Inyo,027,1,19,0,1
-2020-08-10,Kern,029,368,396,0,27
+2020-08-10,Kern,029,364,396,0,27
 2020-08-10,Kings,031,77,90,0,23
 2020-08-10,Los Angeles,037,6743,10390,56,1570
 2020-08-10,Madera,039,58,127,0,16
@@ -2829,7 +2829,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-10,Santa Clara,085,322,363,1,31
 2020-08-10,Santa Cruz,087,8,5,0,0
 2020-08-10,Shasta,089,4,4,0,1
-2020-08-10,Solano,095,42,116,0,12
+2020-08-10,Solano,095,42,116,0,11
 2020-08-10,Sonoma,097,110,223,1,7
 2020-08-10,Stanislaus,099,312,522,2,52
 2020-08-10,Sutter,101,16,2,0,0
@@ -2850,7 +2850,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-11,Humboldt,023,3,2,1,2
 2020-08-11,Imperial,025,98,125,1,19
 2020-08-11,Inyo,027,1,25,0,1
-2020-08-11,Kern,029,368,396,0,27
+2020-08-11,Kern,029,364,396,0,27
 2020-08-11,Kings,031,77,90,0,23
 2020-08-11,Los Angeles,037,6776,10458,56,1572
 2020-08-11,Madera,039,58,127,0,16
@@ -2876,7 +2876,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-11,Santa Clara,085,324,364,2,31
 2020-08-11,Santa Cruz,087,8,5,0,0
 2020-08-11,Shasta,089,4,4,0,1
-2020-08-11,Solano,095,42,117,0,12
+2020-08-11,Solano,095,42,117,0,11
 2020-08-11,Sonoma,097,112,224,1,7
 2020-08-11,Stanislaus,099,315,552,2,53
 2020-08-11,Sutter,101,17,2,0,0
@@ -2897,7 +2897,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-12,Humboldt,023,3,2,1,2
 2020-08-12,Imperial,025,98,125,1,19
 2020-08-12,Inyo,027,1,26,0,1
-2020-08-12,Kern,029,372,409,0,28
+2020-08-12,Kern,029,368,409,0,28
 2020-08-12,Kings,031,77,90,0,23
 2020-08-12,Los Angeles,037,6801,10501,56,1580
 2020-08-12,Madera,039,58,128,0,18
@@ -2923,7 +2923,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-12,Santa Clara,085,334,378,2,31
 2020-08-12,Santa Cruz,087,8,5,0,0
 2020-08-12,Shasta,089,4,4,0,1
-2020-08-12,Solano,095,42,117,0,12
+2020-08-12,Solano,095,42,117,0,11
 2020-08-12,Sonoma,097,120,247,1,7
 2020-08-12,Stanislaus,099,323,556,2,54
 2020-08-12,Sutter,101,17,2,0,0
@@ -2944,7 +2944,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-13,Humboldt,023,3,2,1,2
 2020-08-13,Imperial,025,98,136,1,19
 2020-08-13,Inyo,027,1,33,0,1
-2020-08-13,Kern,029,377,412,0,28
+2020-08-13,Kern,029,373,412,0,28
 2020-08-13,Kings,031,77,90,0,23
 2020-08-13,Los Angeles,037,6829,10560,56,1584
 2020-08-13,Madera,039,59,131,0,18
@@ -2970,7 +2970,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-13,Santa Clara,085,336,380,2,31
 2020-08-13,Santa Cruz,087,8,5,0,0
 2020-08-13,Shasta,089,4,4,0,1
-2020-08-13,Solano,095,42,117,0,12
+2020-08-13,Solano,095,42,117,0,11
 2020-08-13,Sonoma,097,122,249,1,8
 2020-08-13,Stanislaus,099,328,558,2,55
 2020-08-13,Sutter,101,17,2,0,0
@@ -2991,7 +2991,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-14,Humboldt,023,3,2,1,2
 2020-08-14,Imperial,025,99,136,1,19
 2020-08-14,Inyo,027,11,40,0,1
-2020-08-14,Kern,029,382,420,0,29
+2020-08-14,Kern,029,378,420,0,29
 2020-08-14,Kings,031,77,90,0,23
 2020-08-14,Los Angeles,037,6864,10585,56,1595
 2020-08-14,Madera,039,59,133,0,18
@@ -3017,7 +3017,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-14,Santa Clara,085,339,393,2,31
 2020-08-14,Santa Cruz,087,8,5,0,0
 2020-08-14,Shasta,089,4,4,0,1
-2020-08-14,Solano,095,42,117,0,12
+2020-08-14,Solano,095,42,117,0,11
 2020-08-14,Sonoma,097,141,290,1,8
 2020-08-14,Stanislaus,099,336,561,2,55
 2020-08-14,Sutter,101,17,2,0,0
@@ -3039,7 +3039,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-15,Humboldt,023,3,2,1,2
 2020-08-15,Imperial,025,99,136,1,19
 2020-08-15,Inyo,027,14,41,0,1
-2020-08-15,Kern,029,394,423,0,29
+2020-08-15,Kern,029,390,423,0,29
 2020-08-15,Kings,031,77,90,0,23
 2020-08-15,Los Angeles,037,6903,10643,56,1626
 2020-08-15,Madera,039,59,133,0,18
@@ -3065,7 +3065,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-15,Santa Clara,085,343,396,2,31
 2020-08-15,Santa Cruz,087,8,5,0,0
 2020-08-15,Shasta,089,4,4,0,1
-2020-08-15,Solano,095,42,117,0,12
+2020-08-15,Solano,095,42,117,0,11
 2020-08-15,Sonoma,097,149,304,1,8
 2020-08-15,Stanislaus,099,337,564,2,55
 2020-08-15,Sutter,101,17,3,0,0
@@ -3087,7 +3087,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-16,Humboldt,023,3,2,1,2
 2020-08-16,Imperial,025,99,136,1,19
 2020-08-16,Inyo,027,15,41,0,1
-2020-08-16,Kern,029,394,423,0,29
+2020-08-16,Kern,029,390,423,0,29
 2020-08-16,Kings,031,77,90,0,23
 2020-08-16,Los Angeles,037,6913,10694,57,1628
 2020-08-16,Madera,039,59,133,0,18
@@ -3113,7 +3113,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-16,Santa Clara,085,344,399,2,31
 2020-08-16,Santa Cruz,087,8,5,0,0
 2020-08-16,Shasta,089,4,4,0,1
-2020-08-16,Solano,095,42,117,0,12
+2020-08-16,Solano,095,42,117,0,11
 2020-08-16,Sonoma,097,150,312,1,9
 2020-08-16,Stanislaus,099,341,572,2,56
 2020-08-16,Sutter,101,17,3,0,0
@@ -3135,7 +3135,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-17,Humboldt,023,3,2,1,2
 2020-08-17,Imperial,025,99,136,1,19
 2020-08-17,Inyo,027,16,41,0,1
-2020-08-17,Kern,029,397,423,0,29
+2020-08-17,Kern,029,393,423,0,29
 2020-08-17,Kings,031,77,90,0,23
 2020-08-17,Los Angeles,037,6933,10709,58,1631
 2020-08-17,Madera,039,59,133,0,18
@@ -3161,7 +3161,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-17,Santa Clara,085,365,404,2,31
 2020-08-17,Santa Cruz,087,8,5,0,0
 2020-08-17,Shasta,089,5,4,0,1
-2020-08-17,Solano,095,42,117,0,12
+2020-08-17,Solano,095,42,117,0,11
 2020-08-17,Sonoma,097,151,313,1,9
 2020-08-17,Stanislaus,099,350,585,2,57
 2020-08-17,Sutter,101,17,3,0,0
@@ -3183,7 +3183,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-18,Humboldt,023,3,2,1,2
 2020-08-18,Imperial,025,99,136,1,19
 2020-08-18,Inyo,027,16,52,0,1
-2020-08-18,Kern,029,398,424,0,29
+2020-08-18,Kern,029,394,424,0,29
 2020-08-18,Kings,031,77,90,0,23
 2020-08-18,Los Angeles,037,6945,10733,58,1635
 2020-08-18,Madera,039,78,143,0,19
@@ -3209,7 +3209,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-18,Santa Clara,085,366,416,2,32
 2020-08-18,Santa Cruz,087,8,5,0,0
 2020-08-18,Shasta,089,5,4,0,1
-2020-08-18,Solano,095,42,117,0,12
+2020-08-18,Solano,095,42,117,0,11
 2020-08-18,Sonoma,097,153,314,1,9
 2020-08-18,Stanislaus,099,361,593,2,57
 2020-08-18,Sutter,101,17,3,0,0
@@ -3231,7 +3231,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-19,Humboldt,023,3,2,1,2
 2020-08-19,Imperial,025,99,136,1,19
 2020-08-19,Inyo,027,16,53,0,1
-2020-08-19,Kern,029,404,424,0,29
+2020-08-19,Kern,029,400,424,0,29
 2020-08-19,Kings,031,77,90,0,23
 2020-08-19,Lake,033,1,0,0,0
 2020-08-19,Los Angeles,037,6973,10809,58,1642
@@ -3258,7 +3258,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-19,Santa Clara,085,367,427,2,32
 2020-08-19,Santa Cruz,087,8,5,0,0
 2020-08-19,Shasta,089,6,4,0,1
-2020-08-19,Solano,095,42,117,0,12
+2020-08-19,Solano,095,42,117,0,11
 2020-08-19,Sonoma,097,167,319,1,9
 2020-08-19,Stanislaus,099,365,599,2,56
 2020-08-19,Sutter,101,17,3,0,0
@@ -3280,7 +3280,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-20,Humboldt,023,3,2,1,2
 2020-08-20,Imperial,025,99,136,1,19
 2020-08-20,Inyo,027,16,53,0,1
-2020-08-20,Kern,029,413,447,0,29
+2020-08-20,Kern,029,409,447,0,29
 2020-08-20,Kings,031,77,90,0,23
 2020-08-20,Lake,033,1,0,0,0
 2020-08-20,Los Angeles,037,7000,10870,58,1656
@@ -3308,7 +3308,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-20,Santa Cruz,087,8,5,0,0
 2020-08-20,Shasta,089,6,4,0,1
 2020-08-20,Siskiyou,093,1,0,0,0
-2020-08-20,Solano,095,42,117,0,12
+2020-08-20,Solano,095,42,117,0,11
 2020-08-20,Sonoma,097,168,319,1,9
 2020-08-20,Stanislaus,099,370,618,2,57
 2020-08-20,Sutter,101,17,3,0,0
@@ -3330,7 +3330,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-21,Humboldt,023,3,2,1,2
 2020-08-21,Imperial,025,99,136,1,19
 2020-08-21,Inyo,027,17,53,0,1
-2020-08-21,Kern,029,416,447,0,29
+2020-08-21,Kern,029,412,447,0,29
 2020-08-21,Kings,031,77,90,0,23
 2020-08-21,Lake,033,1,0,0,0
 2020-08-21,Los Angeles,037,7059,10901,58,1659
@@ -3358,7 +3358,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-21,Santa Cruz,087,8,5,0,0
 2020-08-21,Shasta,089,6,4,0,1
 2020-08-21,Siskiyou,093,1,0,0,0
-2020-08-21,Solano,095,42,117,0,12
+2020-08-21,Solano,095,42,117,0,11
 2020-08-21,Sonoma,097,185,324,1,10
 2020-08-21,Stanislaus,099,378,632,2,57
 2020-08-21,Sutter,101,17,3,0,0
@@ -3380,7 +3380,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-22,Humboldt,023,3,2,1,2
 2020-08-22,Imperial,025,100,136,1,19
 2020-08-22,Inyo,027,17,53,0,1
-2020-08-22,Kern,029,418,447,0,30
+2020-08-22,Kern,029,414,447,0,30
 2020-08-22,Kings,031,77,90,0,23
 2020-08-22,Lake,033,1,0,0,0
 2020-08-22,Los Angeles,037,7094,10924,57,1660
@@ -3408,7 +3408,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-22,Santa Cruz,087,8,5,0,0
 2020-08-22,Shasta,089,7,4,0,1
 2020-08-22,Siskiyou,093,1,0,0,0
-2020-08-22,Solano,095,42,117,0,12
+2020-08-22,Solano,095,42,117,0,11
 2020-08-22,Sonoma,097,190,331,1,10
 2020-08-22,Stanislaus,099,382,646,2,57
 2020-08-22,Sutter,101,17,3,0,0
@@ -3430,7 +3430,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-23,Humboldt,023,4,2,1,2
 2020-08-23,Imperial,025,101,136,1,19
 2020-08-23,Inyo,027,18,53,0,1
-2020-08-23,Kern,029,418,457,0,30
+2020-08-23,Kern,029,414,457,0,30
 2020-08-23,Kings,031,77,90,0,23
 2020-08-23,Lake,033,1,0,0,0
 2020-08-23,Los Angeles,037,7110,10953,58,1662
@@ -3458,7 +3458,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-23,Santa Cruz,087,8,5,0,0
 2020-08-23,Shasta,089,7,5,0,1
 2020-08-23,Siskiyou,093,1,0,0,0
-2020-08-23,Solano,095,42,117,0,12
+2020-08-23,Solano,095,42,117,0,11
 2020-08-23,Sonoma,097,190,337,1,10
 2020-08-23,Stanislaus,099,394,661,2,57
 2020-08-23,Sutter,101,17,3,0,0
@@ -3480,7 +3480,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-24,Humboldt,023,4,2,1,2
 2020-08-24,Imperial,025,101,136,1,19
 2020-08-24,Inyo,027,18,53,0,1
-2020-08-24,Kern,029,418,457,0,30
+2020-08-24,Kern,029,414,457,0,30
 2020-08-24,Kings,031,77,90,0,23
 2020-08-24,Lake,033,1,0,0,0
 2020-08-24,Los Angeles,037,7130,10976,58,1667
@@ -3508,7 +3508,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-24,Santa Cruz,087,8,5,0,0
 2020-08-24,Shasta,089,7,5,0,1
 2020-08-24,Siskiyou,093,1,0,0,0
-2020-08-24,Solano,095,42,117,0,12
+2020-08-24,Solano,095,42,117,0,11
 2020-08-24,Sonoma,097,192,340,1,11
 2020-08-24,Stanislaus,099,398,666,2,57
 2020-08-24,Sutter,101,17,3,0,0
@@ -3530,7 +3530,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-25,Humboldt,023,4,2,1,2
 2020-08-25,Imperial,025,101,140,1,19
 2020-08-25,Inyo,027,19,54,0,1
-2020-08-25,Kern,029,422,457,0,30
+2020-08-25,Kern,029,418,457,0,30
 2020-08-25,Kings,031,77,90,0,23
 2020-08-25,Lake,033,1,0,0,0
 2020-08-25,Los Angeles,037,7155,10992,58,1669
@@ -3558,7 +3558,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-25,Santa Cruz,087,8,5,0,0
 2020-08-25,Shasta,089,7,5,0,1
 2020-08-25,Siskiyou,093,1,0,0,0
-2020-08-25,Solano,095,42,117,0,12
+2020-08-25,Solano,095,42,117,0,11
 2020-08-25,Sonoma,097,193,340,1,12
 2020-08-25,Stanislaus,099,399,680,2,57
 2020-08-25,Sutter,101,17,3,0,0
@@ -3580,7 +3580,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-26,Humboldt,023,4,2,1,2
 2020-08-26,Imperial,025,101,144,1,19
 2020-08-26,Inyo,027,19,54,0,1
-2020-08-26,Kern,029,426,459,0,30
+2020-08-26,Kern,029,422,459,0,30
 2020-08-26,Kings,031,77,90,0,23
 2020-08-26,Lake,033,1,0,0,0
 2020-08-26,Los Angeles,037,7177,11042,58,1675
@@ -3608,7 +3608,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-26,Santa Cruz,087,8,5,0,0
 2020-08-26,Shasta,089,7,5,0,1
 2020-08-26,Siskiyou,093,1,0,0,0
-2020-08-26,Solano,095,42,117,0,12
+2020-08-26,Solano,095,42,117,0,11
 2020-08-26,Sonoma,097,194,358,1,22
 2020-08-26,Stanislaus,099,407,685,2,57
 2020-08-26,Sutter,101,17,3,0,0
@@ -3630,7 +3630,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-27,Humboldt,023,4,2,1,2
 2020-08-27,Imperial,025,101,144,1,19
 2020-08-27,Inyo,027,19,54,0,1
-2020-08-27,Kern,029,432,466,0,30
+2020-08-27,Kern,029,428,466,0,30
 2020-08-27,Kings,031,77,90,0,23
 2020-08-27,Lake,033,1,0,0,0
 2020-08-27,Los Angeles,037,7233,11067,57,1681
@@ -3658,7 +3658,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-27,Santa Cruz,087,8,5,0,0
 2020-08-27,Shasta,089,7,5,0,1
 2020-08-27,Siskiyou,093,1,0,0,0
-2020-08-27,Solano,095,42,117,0,12
+2020-08-27,Solano,095,42,117,0,11
 2020-08-27,Sonoma,097,195,367,1,22
 2020-08-27,Stanislaus,099,416,694,2,57
 2020-08-27,Sutter,101,17,3,0,0
@@ -3680,7 +3680,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-28,Humboldt,023,4,2,1,2
 2020-08-28,Imperial,025,102,145,1,19
 2020-08-28,Inyo,027,19,54,0,1
-2020-08-28,Kern,029,436,469,0,30
+2020-08-28,Kern,029,432,469,0,30
 2020-08-28,Kings,031,77,90,0,23
 2020-08-28,Lake,033,1,0,0,0
 2020-08-28,Los Angeles,037,7265,11114,58,1692
@@ -3708,7 +3708,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-28,Santa Cruz,087,8,5,0,0
 2020-08-28,Shasta,089,7,5,0,1
 2020-08-28,Siskiyou,093,1,0,0,0
-2020-08-28,Solano,095,43,118,0,12
+2020-08-28,Solano,095,43,118,0,11
 2020-08-28,Sonoma,097,195,376,1,22
 2020-08-28,Stanislaus,099,426,697,2,57
 2020-08-28,Sutter,101,17,3,0,0
@@ -3730,7 +3730,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-29,Humboldt,023,4,2,1,2
 2020-08-29,Imperial,025,102,145,1,19
 2020-08-29,Inyo,027,19,54,0,1
-2020-08-29,Kern,029,436,469,0,31
+2020-08-29,Kern,029,432,469,0,31
 2020-08-29,Kings,031,77,90,0,23
 2020-08-29,Lake,033,1,1,0,1
 2020-08-29,Los Angeles,037,7295,11142,58,1696
@@ -3758,7 +3758,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-29,Santa Cruz,087,8,5,0,0
 2020-08-29,Shasta,089,7,5,0,1
 2020-08-29,Siskiyou,093,1,0,0,0
-2020-08-29,Solano,095,43,118,0,12
+2020-08-29,Solano,095,43,118,0,11
 2020-08-29,Sonoma,097,196,376,1,22
 2020-08-29,Stanislaus,099,426,699,2,57
 2020-08-29,Sutter,101,17,3,0,0
@@ -3780,7 +3780,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-30,Humboldt,023,4,2,1,2
 2020-08-30,Imperial,025,102,145,1,19
 2020-08-30,Inyo,027,19,54,0,1
-2020-08-30,Kern,029,439,469,0,31
+2020-08-30,Kern,029,435,469,0,31
 2020-08-30,Kings,031,77,90,0,23
 2020-08-30,Lake,033,1,1,0,1
 2020-08-30,Los Angeles,037,7307,11172,58,1707
@@ -3808,7 +3808,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-30,Santa Cruz,087,8,5,0,0
 2020-08-30,Shasta,089,7,5,0,1
 2020-08-30,Siskiyou,093,1,0,0,0
-2020-08-30,Solano,095,43,118,0,12
+2020-08-30,Solano,095,43,118,0,11
 2020-08-30,Sonoma,097,196,376,1,22
 2020-08-30,Stanislaus,099,426,699,2,58
 2020-08-30,Sutter,101,17,3,0,0
@@ -3830,7 +3830,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-31,Humboldt,023,4,2,1,2
 2020-08-31,Imperial,025,113,145,1,19
 2020-08-31,Inyo,027,19,54,0,1
-2020-08-31,Kern,029,440,491,0,31
+2020-08-31,Kern,029,436,491,0,31
 2020-08-31,Kings,031,77,90,0,23
 2020-08-31,Lake,033,1,1,0,1
 2020-08-31,Los Angeles,037,7331,11219,57,1717
@@ -3859,7 +3859,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-31,Santa Cruz,087,8,5,0,0
 2020-08-31,Shasta,089,7,5,0,1
 2020-08-31,Siskiyou,093,1,0,0,0
-2020-08-31,Solano,095,43,119,0,12
+2020-08-31,Solano,095,43,119,0,11
 2020-08-31,Sonoma,097,204,390,1,23
 2020-08-31,Stanislaus,099,427,713,2,70
 2020-08-31,Sutter,101,17,3,0,0
@@ -3881,7 +3881,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-01,Humboldt,023,4,2,1,2
 2020-09-01,Imperial,025,113,151,1,19
 2020-09-01,Inyo,027,19,54,0,1
-2020-09-01,Kern,029,440,491,0,31
+2020-09-01,Kern,029,436,491,0,31
 2020-09-01,Kings,031,77,90,0,23
 2020-09-01,Lake,033,2,1,0,1
 2020-09-01,Los Angeles,037,7342,11227,57,1722
@@ -3910,7 +3910,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-01,Santa Cruz,087,8,5,0,0
 2020-09-01,Shasta,089,7,5,0,1
 2020-09-01,Siskiyou,093,1,0,0,0
-2020-09-01,Solano,095,43,119,0,12
+2020-09-01,Solano,095,43,119,0,11
 2020-09-01,Sonoma,097,204,391,1,23
 2020-09-01,Stanislaus,099,428,729,2,72
 2020-09-01,Sutter,101,17,3,0,0
@@ -3932,7 +3932,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-02,Humboldt,023,4,2,1,2
 2020-09-02,Imperial,025,113,153,1,19
 2020-09-02,Inyo,027,19,54,0,1
-2020-09-02,Kern,029,441,491,0,31
+2020-09-02,Kern,029,437,491,0,31
 2020-09-02,Kings,031,77,90,0,23
 2020-09-02,Lake,033,2,1,0,1
 2020-09-02,Los Angeles,037,7358,11237,58,1737
@@ -3961,7 +3961,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-02,Santa Cruz,087,8,5,0,0
 2020-09-02,Shasta,089,7,5,0,1
 2020-09-02,Siskiyou,093,1,0,0,0
-2020-09-02,Solano,095,43,119,0,12
+2020-09-02,Solano,095,43,119,0,11
 2020-09-02,Sonoma,097,204,391,1,23
 2020-09-02,Stanislaus,099,435,741,2,74
 2020-09-02,Sutter,101,17,3,0,0
@@ -3983,7 +3983,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-03,Humboldt,023,4,2,1,2
 2020-09-03,Imperial,025,113,154,1,19
 2020-09-03,Inyo,027,19,54,0,1
-2020-09-03,Kern,029,441,496,0,31
+2020-09-03,Kern,029,437,496,0,31
 2020-09-03,Kings,031,77,90,0,23
 2020-09-03,Lake,033,2,1,0,1
 2020-09-03,Los Angeles,037,7372,11261,58,1741
@@ -4012,7 +4012,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-03,Santa Cruz,087,8,5,0,0
 2020-09-03,Shasta,089,7,5,0,1
 2020-09-03,Siskiyou,093,1,0,0,0
-2020-09-03,Solano,095,43,119,0,12
+2020-09-03,Solano,095,43,119,0,11
 2020-09-03,Sonoma,097,207,425,1,24
 2020-09-03,Stanislaus,099,444,746,2,76
 2020-09-03,Sutter,101,17,3,0,0
@@ -4034,7 +4034,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-04,Humboldt,023,4,2,1,2
 2020-09-04,Imperial,025,113,154,1,19
 2020-09-04,Inyo,027,19,54,0,1
-2020-09-04,Kern,029,444,497,0,31
+2020-09-04,Kern,029,440,497,0,31
 2020-09-04,Kings,031,77,90,0,23
 2020-09-04,Lake,033,2,1,0,1
 2020-09-04,Los Angeles,037,7403,11294,58,1744
@@ -4063,7 +4063,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-04,Santa Cruz,087,8,5,0,0
 2020-09-04,Shasta,089,7,5,0,1
 2020-09-04,Siskiyou,093,1,0,0,0
-2020-09-04,Solano,095,43,119,0,12
+2020-09-04,Solano,095,43,119,0,11
 2020-09-04,Sonoma,097,217,425,1,24
 2020-09-04,Stanislaus,099,450,747,2,77
 2020-09-04,Sutter,101,27,3,0,0
@@ -4085,7 +4085,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-05,Humboldt,023,4,2,1,2
 2020-09-05,Imperial,025,113,154,1,19
 2020-09-05,Inyo,027,19,54,0,1
-2020-09-05,Kern,029,446,498,0,31
+2020-09-05,Kern,029,442,498,0,31
 2020-09-05,Kings,031,77,90,0,23
 2020-09-05,Lake,033,2,16,0,1
 2020-09-05,Los Angeles,037,7421,11310,58,1748
@@ -4114,7 +4114,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-05,Santa Cruz,087,8,5,0,0
 2020-09-05,Shasta,089,7,5,0,1
 2020-09-05,Siskiyou,093,1,0,0,0
-2020-09-05,Solano,095,43,119,0,12
+2020-09-05,Solano,095,43,119,0,11
 2020-09-05,Sonoma,097,222,425,1,24
 2020-09-05,Stanislaus,099,451,747,2,77
 2020-09-05,Sutter,101,27,3,0,0
@@ -4136,7 +4136,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-06,Humboldt,023,4,2,1,2
 2020-09-06,Imperial,025,113,154,1,19
 2020-09-06,Inyo,027,19,54,0,1
-2020-09-06,Kern,029,446,498,0,31
+2020-09-06,Kern,029,442,498,0,31
 2020-09-06,Kings,031,77,90,0,23
 2020-09-06,Lake,033,2,16,0,1
 2020-09-06,Los Angeles,037,7439,11334,58,1748
@@ -4165,7 +4165,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-06,Santa Cruz,087,8,5,0,0
 2020-09-06,Shasta,089,7,5,0,1
 2020-09-06,Siskiyou,093,1,0,0,0
-2020-09-06,Solano,095,43,119,0,12
+2020-09-06,Solano,095,43,119,0,11
 2020-09-06,Sonoma,097,223,426,1,24
 2020-09-06,Stanislaus,099,451,754,2,77
 2020-09-06,Sutter,101,27,3,0,0
@@ -4187,7 +4187,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-07,Humboldt,023,4,2,1,2
 2020-09-07,Imperial,025,113,154,1,19
 2020-09-07,Inyo,027,19,54,0,1
-2020-09-07,Kern,029,447,498,0,31
+2020-09-07,Kern,029,443,498,0,31
 2020-09-07,Kings,031,77,90,0,23
 2020-09-07,Lake,033,2,16,0,1
 2020-09-07,Los Angeles,037,7469,11372,58,1759
@@ -4216,7 +4216,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-07,Santa Cruz,087,8,5,0,0
 2020-09-07,Shasta,089,7,5,0,1
 2020-09-07,Siskiyou,093,1,0,0,0
-2020-09-07,Solano,095,54,120,0,12
+2020-09-07,Solano,095,54,120,0,11
 2020-09-07,Sonoma,097,235,437,1,25
 2020-09-07,Stanislaus,099,452,754,2,78
 2020-09-07,Sutter,101,27,3,0,0
@@ -4238,7 +4238,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-08,Humboldt,023,4,2,1,2
 2020-09-08,Imperial,025,113,154,1,19
 2020-09-08,Inyo,027,19,54,0,1
-2020-09-08,Kern,029,447,499,0,31
+2020-09-08,Kern,029,443,499,0,31
 2020-09-08,Kings,031,77,90,0,23
 2020-09-08,Lake,033,2,16,0,1
 2020-09-08,Los Angeles,037,7486,11378,59,1784
@@ -4267,7 +4267,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-08,Santa Cruz,087,8,5,0,0
 2020-09-08,Shasta,089,7,5,0,1
 2020-09-08,Siskiyou,093,1,0,0,0
-2020-09-08,Solano,095,54,120,0,12
+2020-09-08,Solano,095,54,120,0,11
 2020-09-08,Sonoma,097,236,437,1,25
 2020-09-08,Stanislaus,099,452,754,2,78
 2020-09-08,Sutter,101,27,3,0,0
@@ -4289,7 +4289,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-09,Humboldt,023,4,2,1,2
 2020-09-09,Imperial,025,113,154,1,19
 2020-09-09,Inyo,027,19,54,0,1
-2020-09-09,Kern,029,447,499,0,31
+2020-09-09,Kern,029,443,499,0,31
 2020-09-09,Kings,031,77,90,0,23
 2020-09-09,Lake,033,2,16,0,1
 2020-09-09,Los Angeles,037,7496,11398,59,1792
@@ -4318,7 +4318,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-09,Santa Cruz,087,8,5,0,0
 2020-09-09,Shasta,089,7,5,0,1
 2020-09-09,Siskiyou,093,1,0,0,0
-2020-09-09,Solano,095,54,120,0,12
+2020-09-09,Solano,095,54,120,0,11
 2020-09-09,Sonoma,097,236,438,1,25
 2020-09-09,Stanislaus,099,465,761,2,78
 2020-09-09,Sutter,101,28,3,0,0
@@ -4340,7 +4340,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-10,Humboldt,023,4,2,1,2
 2020-09-10,Imperial,025,113,154,1,19
 2020-09-10,Inyo,027,19,54,0,1
-2020-09-10,Kern,029,448,499,0,31
+2020-09-10,Kern,029,444,499,0,31
 2020-09-10,Kings,031,77,90,0,23
 2020-09-10,Lake,033,2,16,0,1
 2020-09-10,Los Angeles,037,7511,11408,60,1794
@@ -4369,7 +4369,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-10,Santa Cruz,087,8,5,0,0
 2020-09-10,Shasta,089,7,5,0,1
 2020-09-10,Siskiyou,093,1,0,0,0
-2020-09-10,Solano,095,54,120,0,12
+2020-09-10,Solano,095,54,120,0,11
 2020-09-10,Sonoma,097,239,439,1,25
 2020-09-10,Stanislaus,099,465,762,2,78
 2020-09-10,Sutter,101,28,3,0,0
@@ -4391,7 +4391,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-11,Humboldt,023,4,2,1,2
 2020-09-11,Imperial,025,113,154,1,19
 2020-09-11,Inyo,027,19,54,0,1
-2020-09-11,Kern,029,450,499,0,31
+2020-09-11,Kern,029,446,499,0,31
 2020-09-11,Kings,031,78,90,0,23
 2020-09-11,Lake,033,12,21,0,1
 2020-09-11,Los Angeles,037,7524,11420,60,1796
@@ -4420,7 +4420,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-11,Santa Cruz,087,8,5,0,0
 2020-09-11,Shasta,089,7,5,0,1
 2020-09-11,Siskiyou,093,1,0,0,0
-2020-09-11,Solano,095,54,120,0,12
+2020-09-11,Solano,095,54,120,0,11
 2020-09-11,Sonoma,097,240,440,1,25
 2020-09-11,Stanislaus,099,477,765,2,78
 2020-09-11,Sutter,101,28,3,0,0
@@ -4442,7 +4442,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-12,Humboldt,023,4,2,1,2
 2020-09-12,Imperial,025,113,154,1,19
 2020-09-12,Inyo,027,19,54,0,1
-2020-09-12,Kern,029,450,511,0,31
+2020-09-12,Kern,029,446,511,0,31
 2020-09-12,Kings,031,78,90,0,23
 2020-09-12,Lake,033,12,23,0,1
 2020-09-12,Los Angeles,037,7534,11454,60,1796
@@ -4471,7 +4471,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-12,Santa Cruz,087,8,5,0,0
 2020-09-12,Shasta,089,7,25,0,1
 2020-09-12,Siskiyou,093,1,0,0,0
-2020-09-12,Solano,095,54,120,0,12
+2020-09-12,Solano,095,54,120,0,11
 2020-09-12,Sonoma,097,240,440,1,25
 2020-09-12,Stanislaus,099,479,765,3,78
 2020-09-12,Sutter,101,28,3,0,0
@@ -4493,7 +4493,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-13,Humboldt,023,4,2,1,2
 2020-09-13,Imperial,025,113,154,1,19
 2020-09-13,Inyo,027,19,54,0,1
-2020-09-13,Kern,029,451,511,0,31
+2020-09-13,Kern,029,447,511,0,31
 2020-09-13,Kings,031,78,90,0,23
 2020-09-13,Lake,033,15,23,0,1
 2020-09-13,Los Angeles,037,7547,11477,60,1797
@@ -4522,7 +4522,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-13,Santa Cruz,087,8,5,0,0
 2020-09-13,Shasta,089,7,25,0,1
 2020-09-13,Siskiyou,093,1,0,0,0
-2020-09-13,Solano,095,54,120,0,12
+2020-09-13,Solano,095,54,120,0,11
 2020-09-13,Sonoma,097,241,441,1,25
 2020-09-13,Stanislaus,099,481,765,3,78
 2020-09-13,Sutter,101,28,3,0,0
@@ -4544,7 +4544,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-14,Humboldt,023,4,2,1,2
 2020-09-14,Imperial,025,113,154,1,19
 2020-09-14,Inyo,027,19,54,0,1
-2020-09-14,Kern,029,451,511,0,31
+2020-09-14,Kern,029,447,511,0,31
 2020-09-14,Kings,031,78,90,0,23
 2020-09-14,Lake,033,17,23,0,1
 2020-09-14,Los Angeles,037,7570,11486,60,1803
@@ -4573,7 +4573,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-14,Santa Cruz,087,8,5,0,0
 2020-09-14,Shasta,089,8,25,0,2
 2020-09-14,Siskiyou,093,1,0,0,0
-2020-09-14,Solano,095,56,148,1,13
+2020-09-14,Solano,095,56,148,1,12
 2020-09-14,Sonoma,097,251,443,1,27
 2020-09-14,Stanislaus,099,482,765,3,78
 2020-09-14,Sutter,101,28,3,0,0
@@ -4595,7 +4595,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-15,Humboldt,023,4,2,1,2
 2020-09-15,Imperial,025,114,154,1,19
 2020-09-15,Inyo,027,19,54,0,1
-2020-09-15,Kern,029,457,524,0,31
+2020-09-15,Kern,029,453,524,0,31
 2020-09-15,Kings,031,78,90,0,23
 2020-09-15,Lake,033,20,26,0,1
 2020-09-15,Los Angeles,037,7581,11495,60,1806
@@ -4624,7 +4624,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-15,Santa Cruz,087,8,5,0,0
 2020-09-15,Shasta,089,8,25,0,2
 2020-09-15,Siskiyou,093,1,0,0,0
-2020-09-15,Solano,095,57,157,1,14
+2020-09-15,Solano,095,57,157,1,13
 2020-09-15,Sonoma,097,252,443,1,27
 2020-09-15,Stanislaus,099,483,771,3,78
 2020-09-15,Sutter,101,28,3,0,0
@@ -4646,7 +4646,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-16,Humboldt,023,4,2,1,2
 2020-09-16,Imperial,025,114,154,1,19
 2020-09-16,Inyo,027,19,54,0,1
-2020-09-16,Kern,029,457,524,0,31
+2020-09-16,Kern,029,453,524,0,31
 2020-09-16,Kings,031,78,90,0,23
 2020-09-16,Lake,033,20,32,0,1
 2020-09-16,Los Angeles,037,7604,11501,60,1810
@@ -4675,7 +4675,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-16,Santa Cruz,087,8,5,0,0
 2020-09-16,Shasta,089,8,25,0,2
 2020-09-16,Siskiyou,093,1,0,0,0
-2020-09-16,Solano,095,57,157,1,14
+2020-09-16,Solano,095,57,157,1,13
 2020-09-16,Sonoma,097,252,443,1,27
 2020-09-16,Stanislaus,099,483,772,3,79
 2020-09-16,Sutter,101,28,3,0,0
@@ -4697,7 +4697,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-17,Humboldt,023,4,2,1,2
 2020-09-17,Imperial,025,114,155,1,19
 2020-09-17,Inyo,027,19,54,0,1
-2020-09-17,Kern,029,459,524,0,31
+2020-09-17,Kern,029,455,524,0,31
 2020-09-17,Kings,031,78,90,0,23
 2020-09-17,Lake,033,22,34,0,1
 2020-09-17,Los Angeles,037,7621,11512,60,1811
@@ -4726,7 +4726,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-17,Santa Cruz,087,8,6,0,0
 2020-09-17,Shasta,089,19,25,0,2
 2020-09-17,Siskiyou,093,1,0,0,0
-2020-09-17,Solano,095,57,157,1,14
+2020-09-17,Solano,095,57,157,1,13
 2020-09-17,Sonoma,097,252,443,1,27
 2020-09-17,Stanislaus,099,488,772,3,79
 2020-09-17,Sutter,101,28,3,0,0
@@ -4748,7 +4748,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-18,Humboldt,023,4,2,1,2
 2020-09-18,Imperial,025,114,155,1,19
 2020-09-18,Inyo,027,19,54,0,1
-2020-09-18,Kern,029,460,537,0,31
+2020-09-18,Kern,029,456,537,0,31
 2020-09-18,Kings,031,78,90,0,23
 2020-09-18,Lake,033,22,34,0,1
 2020-09-18,Los Angeles,037,7641,11532,60,1812
@@ -4777,7 +4777,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-18,Santa Cruz,087,8,6,0,0
 2020-09-18,Shasta,089,20,25,0,2
 2020-09-18,Siskiyou,093,1,0,0,0
-2020-09-18,Solano,095,59,165,1,15
+2020-09-18,Solano,095,59,165,1,14
 2020-09-18,Sonoma,097,254,448,1,27
 2020-09-18,Stanislaus,099,488,772,3,79
 2020-09-18,Sutter,101,28,3,0,0
@@ -4799,7 +4799,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-19,Humboldt,023,4,2,1,2
 2020-09-19,Imperial,025,114,155,1,19
 2020-09-19,Inyo,027,19,54,0,1
-2020-09-19,Kern,029,461,537,0,31
+2020-09-19,Kern,029,457,537,0,31
 2020-09-19,Kings,031,78,90,0,23
 2020-09-19,Lake,033,23,36,0,1
 2020-09-19,Los Angeles,037,7652,11555,61,1813
@@ -4828,7 +4828,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-19,Santa Cruz,087,8,6,0,0
 2020-09-19,Shasta,089,21,38,0,2
 2020-09-19,Siskiyou,093,1,0,0,0
-2020-09-19,Solano,095,59,165,1,15
+2020-09-19,Solano,095,59,165,1,14
 2020-09-19,Sonoma,097,255,448,1,27
 2020-09-19,Stanislaus,099,488,777,3,79
 2020-09-19,Sutter,101,28,3,0,0
@@ -4850,7 +4850,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-20,Humboldt,023,4,2,1,2
 2020-09-20,Imperial,025,114,155,1,19
 2020-09-20,Inyo,027,19,54,0,1
-2020-09-20,Kern,029,462,537,0,31
+2020-09-20,Kern,029,458,537,0,31
 2020-09-20,Kings,031,78,90,0,23
 2020-09-20,Lake,033,23,37,0,1
 2020-09-20,Los Angeles,037,7660,11568,61,1814
@@ -4879,7 +4879,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-20,Santa Cruz,087,8,6,0,0
 2020-09-20,Shasta,089,21,38,0,2
 2020-09-20,Siskiyou,093,1,0,0,0
-2020-09-20,Solano,095,63,167,1,15
+2020-09-20,Solano,095,63,167,1,14
 2020-09-20,Sonoma,097,255,448,1,27
 2020-09-20,Stanislaus,099,488,777,3,79
 2020-09-20,Sutter,101,28,3,0,0
@@ -4902,7 +4902,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-21,Humboldt,023,4,2,1,2
 2020-09-21,Imperial,025,114,156,1,19
 2020-09-21,Inyo,027,19,54,0,1
-2020-09-21,Kern,029,463,537,0,31
+2020-09-21,Kern,029,459,537,0,31
 2020-09-21,Kings,031,78,90,0,23
 2020-09-21,Lake,033,24,37,0,1
 2020-09-21,Los Angeles,037,7698,11614,62,1815
@@ -4931,7 +4931,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-21,Santa Cruz,087,8,29,0,0
 2020-09-21,Shasta,089,23,40,0,2
 2020-09-21,Siskiyou,093,1,0,0,0
-2020-09-21,Solano,095,63,167,1,15
+2020-09-21,Solano,095,63,167,1,14
 2020-09-21,Sonoma,097,255,448,1,27
 2020-09-21,Stanislaus,099,490,778,2,80
 2020-09-21,Sutter,101,28,3,0,0
@@ -4954,7 +4954,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-22,Humboldt,023,4,2,1,2
 2020-09-22,Imperial,025,115,156,1,19
 2020-09-22,Inyo,027,19,54,0,1
-2020-09-22,Kern,029,464,537,0,31
+2020-09-22,Kern,029,460,537,0,31
 2020-09-22,Kings,031,78,90,0,23
 2020-09-22,Lake,033,24,37,0,1
 2020-09-22,Los Angeles,037,7710,11620,62,1827
@@ -4983,7 +4983,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-22,Santa Cruz,087,8,30,0,0
 2020-09-22,Shasta,089,25,40,0,2
 2020-09-22,Siskiyou,093,1,0,0,0
-2020-09-22,Solano,095,63,167,1,15
+2020-09-22,Solano,095,63,167,1,14
 2020-09-22,Sonoma,097,255,449,1,27
 2020-09-22,Stanislaus,099,496,808,2,81
 2020-09-22,Sutter,101,28,3,0,0
@@ -5006,7 +5006,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-23,Humboldt,023,4,2,1,2
 2020-09-23,Imperial,025,116,157,1,19
 2020-09-23,Inyo,027,19,54,0,1
-2020-09-23,Kern,029,464,537,0,31
+2020-09-23,Kern,029,460,537,0,31
 2020-09-23,Kings,031,78,90,0,23
 2020-09-23,Lake,033,24,38,0,1
 2020-09-23,Los Angeles,037,7729,11628,63,1831
@@ -5035,7 +5035,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-23,Santa Cruz,087,8,31,0,1
 2020-09-23,Shasta,089,25,40,0,2
 2020-09-23,Siskiyou,093,1,0,0,0
-2020-09-23,Solano,095,63,167,1,15
+2020-09-23,Solano,095,63,167,1,14
 2020-09-23,Sonoma,097,256,450,1,27
 2020-09-23,Stanislaus,099,496,810,2,81
 2020-09-23,Sutter,101,28,3,0,0
@@ -5058,7 +5058,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-24,Humboldt,023,4,2,1,2
 2020-09-24,Imperial,025,120,157,1,19
 2020-09-24,Inyo,027,19,54,0,1
-2020-09-24,Kern,029,466,537,0,31
+2020-09-24,Kern,029,462,537,0,31
 2020-09-24,Kings,031,78,90,0,23
 2020-09-24,Lake,033,24,38,0,1
 2020-09-24,Los Angeles,037,7750,11643,63,1833
@@ -5087,7 +5087,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-24,Santa Cruz,087,8,32,0,1
 2020-09-24,Shasta,089,26,42,0,2
 2020-09-24,Siskiyou,093,1,0,0,0
-2020-09-24,Solano,095,64,167,1,15
+2020-09-24,Solano,095,64,167,1,14
 2020-09-24,Sonoma,097,257,450,1,27
 2020-09-24,Stanislaus,099,498,810,2,81
 2020-09-24,Sutter,101,28,3,0,0
@@ -5110,7 +5110,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-25,Humboldt,023,4,2,1,2
 2020-09-25,Imperial,025,120,157,1,19
 2020-09-25,Inyo,027,19,54,0,1
-2020-09-25,Kern,029,467,538,0,31
+2020-09-25,Kern,029,463,538,0,31
 2020-09-25,Kings,031,78,90,0,23
 2020-09-25,Lake,033,24,38,0,1
 2020-09-25,Los Angeles,037,7768,11660,63,1833
@@ -5139,7 +5139,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-25,Santa Cruz,087,8,32,0,1
 2020-09-25,Shasta,089,26,43,0,2
 2020-09-25,Siskiyou,093,1,0,0,0
-2020-09-25,Solano,095,64,167,1,15
+2020-09-25,Solano,095,64,167,1,14
 2020-09-25,Sonoma,097,259,460,1,27
 2020-09-25,Stanislaus,099,498,811,2,81
 2020-09-25,Sutter,101,28,3,0,0
@@ -5162,7 +5162,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-26,Humboldt,023,4,2,1,2
 2020-09-26,Imperial,025,120,158,1,19
 2020-09-26,Inyo,027,20,54,0,1
-2020-09-26,Kern,029,467,538,0,31
+2020-09-26,Kern,029,463,538,0,31
 2020-09-26,Kings,031,78,90,0,23
 2020-09-26,Lake,033,24,38,0,1
 2020-09-26,Los Angeles,037,7782,11669,63,1845
@@ -5191,7 +5191,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-26,Santa Cruz,087,8,34,0,1
 2020-09-26,Shasta,089,26,43,0,2
 2020-09-26,Siskiyou,093,1,0,0,0
-2020-09-26,Solano,095,65,167,1,15
+2020-09-26,Solano,095,65,167,1,14
 2020-09-26,Sonoma,097,259,460,1,27
 2020-09-26,Stanislaus,099,499,812,2,81
 2020-09-26,Sutter,101,28,3,0,0
@@ -5214,7 +5214,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-27,Humboldt,023,4,2,1,2
 2020-09-27,Imperial,025,120,158,1,19
 2020-09-27,Inyo,027,20,54,0,1
-2020-09-27,Kern,029,468,538,0,31
+2020-09-27,Kern,029,464,538,0,31
 2020-09-27,Kings,031,78,90,0,23
 2020-09-27,Lake,033,24,38,0,1
 2020-09-27,Los Angeles,037,7793,11678,63,1847
@@ -5241,9 +5241,9 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-27,Santa Barbara,083,130,158,1,11
 2020-09-27,Santa Clara,085,497,521,3,36
 2020-09-27,Santa Cruz,087,19,35,0,1
-2020-09-27,Shasta,089,28,43,0,2
+2020-09-27,Shasta,089,28,43,0,12
 2020-09-27,Siskiyou,093,1,0,0,0
-2020-09-27,Solano,095,68,170,1,15
+2020-09-27,Solano,095,68,170,1,14
 2020-09-27,Sonoma,097,259,460,1,27
 2020-09-27,Stanislaus,099,500,812,2,81
 2020-09-27,Sutter,101,28,3,0,0
@@ -5266,7 +5266,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-28,Humboldt,023,4,2,1,2
 2020-09-28,Imperial,025,121,159,1,19
 2020-09-28,Inyo,027,20,54,0,1
-2020-09-28,Kern,029,473,538,0,31
+2020-09-28,Kern,029,469,538,0,31
 2020-09-28,Kings,031,79,90,0,23
 2020-09-28,Lake,033,24,38,0,1
 2020-09-28,Los Angeles,037,7804,11706,63,1849
@@ -5293,9 +5293,9 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-28,Santa Barbara,083,130,158,1,11
 2020-09-28,Santa Clara,085,500,526,3,37
 2020-09-28,Santa Cruz,087,21,35,0,1
-2020-09-28,Shasta,089,28,43,0,2
+2020-09-28,Shasta,089,28,43,0,13
 2020-09-28,Siskiyou,093,1,0,0,0
-2020-09-28,Solano,095,68,170,1,15
+2020-09-28,Solano,095,68,170,1,14
 2020-09-28,Sonoma,097,260,460,1,27
 2020-09-28,Stanislaus,099,500,812,2,81
 2020-09-28,Sutter,101,28,3,0,0
@@ -5319,7 +5319,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-29,Humboldt,023,4,2,1,2
 2020-09-29,Imperial,025,121,159,1,19
 2020-09-29,Inyo,027,20,54,0,1
-2020-09-29,Kern,029,475,539,0,31
+2020-09-29,Kern,029,471,539,0,31
 2020-09-29,Kings,031,79,91,0,23
 2020-09-29,Lake,033,24,38,0,1
 2020-09-29,Los Angeles,037,7815,11713,63,1854
@@ -5346,9 +5346,9 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-29,Santa Barbara,083,130,159,1,12
 2020-09-29,Santa Clara,085,502,526,3,37
 2020-09-29,Santa Cruz,087,23,36,0,1
-2020-09-29,Shasta,089,28,43,0,2
+2020-09-29,Shasta,089,28,43,0,14
 2020-09-29,Siskiyou,093,1,0,0,0
-2020-09-29,Solano,095,68,170,1,15
+2020-09-29,Solano,095,68,170,1,14
 2020-09-29,Sonoma,097,260,460,1,27
 2020-09-29,Stanislaus,099,500,814,2,91
 2020-09-29,Sutter,101,28,3,0,0
@@ -5372,7 +5372,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-30,Humboldt,023,4,2,1,2
 2020-09-30,Imperial,025,121,159,1,19
 2020-09-30,Inyo,027,20,54,0,1
-2020-09-30,Kern,029,477,539,0,31
+2020-09-30,Kern,029,473,539,0,31
 2020-09-30,Kings,031,79,91,0,23
 2020-09-30,Lake,033,24,38,0,1
 2020-09-30,Los Angeles,037,7839,11758,63,1857
@@ -5399,9 +5399,9 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-30,Santa Barbara,083,141,159,1,12
 2020-09-30,Santa Clara,085,509,529,3,37
 2020-09-30,Santa Cruz,087,23,36,0,1
-2020-09-30,Shasta,089,28,43,0,2
+2020-09-30,Shasta,089,28,43,0,14
 2020-09-30,Siskiyou,093,1,0,0,0
-2020-09-30,Solano,095,68,170,1,15
+2020-09-30,Solano,095,68,170,1,14
 2020-09-30,Sonoma,097,261,460,1,27
 2020-09-30,Stanislaus,099,506,814,2,91
 2020-09-30,Sutter,101,28,3,0,0
@@ -5412,9 +5412,9 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-30,Ventura,111,355,355,0,15
 2020-09-30,Yolo,113,58,55,1,18
 2020-09-30,Yuba,115,2,1,0,1
-2020-10-01,Alameda,001,661,1100,6,94
+2020-10-01,Alameda,001,661,1102,6,94
 2020-10-01,Amador,005,23,52,0,17
-2020-10-01,Butte,007,105,157,1,7
+2020-10-01,Butte,007,105,160,1,7
 2020-10-01,Calaveras,009,16,47,0,1
 2020-10-01,Colusa,011,42,30,0,2
 2020-10-01,Contra Costa,013,268,436,4,54
@@ -5425,43 +5425,474 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-01,Humboldt,023,4,2,1,2
 2020-10-01,Imperial,025,121,159,1,19
 2020-10-01,Inyo,027,20,54,0,1
-2020-10-01,Kern,029,477,539,0,31
+2020-10-01,Kern,029,473,539,0,31
 2020-10-01,Kings,031,79,91,0,23
 2020-10-01,Lake,033,24,38,0,1
-2020-10-01,Los Angeles,037,7851,11759,63,1857
+2020-10-01,Los Angeles,037,7877,11771,64,1858
 2020-10-01,Madera,039,111,195,0,21
-2020-10-01,Marin,041,198,294,2,45
+2020-10-01,Marin,041,198,295,2,45
 2020-10-01,Mendocino,045,5,27,1,2
 2020-10-01,Merced,047,49,85,1,2
 2020-10-01,Modoc,049,1,0,0,0
-2020-10-01,Monterey,053,108,40,0,3
+2020-10-01,Monterey,053,109,40,0,3
 2020-10-01,Napa,055,23,52,2,12
 2020-10-01,Nevada,057,6,15,0,2
-2020-10-01,Orange,059,1771,2306,9,308
-2020-10-01,Placer,061,27,56,0,8
+2020-10-01,Orange,059,1790,2309,9,310
+2020-10-01,Placer,061,27,66,0,8
 2020-10-01,Plumas,063,1,0,0,0
-2020-10-01,Riverside,065,1209,1755,7,142
-2020-10-01,Sacramento,067,578,825,3,69
+2020-10-01,Riverside,065,1209,1760,7,142
+2020-10-01,Sacramento,067,578,826,3,79
 2020-10-01,San Benito,069,3,3,1,3
-2020-10-01,San Bernardino,071,1119,1895,10,148
-2020-10-01,San Diego,073,917,1264,5,135
-2020-10-01,San Francisco,075,207,253,1,21
+2020-10-01,San Bernardino,071,1129,1895,10,148
+2020-10-01,San Diego,073,923,1290,5,136
+2020-10-01,San Francisco,075,211,253,1,21
 2020-10-01,San Joaquin,077,709,1006,2,96
 2020-10-01,San Luis Obispo,079,32,29,0,4
 2020-10-01,San Mateo,081,181,299,4,47
-2020-10-01,Santa Barbara,083,141,159,1,12
+2020-10-01,Santa Barbara,083,142,159,1,12
 2020-10-01,Santa Clara,085,509,529,3,37
-2020-10-01,Santa Cruz,087,23,36,0,1
-2020-10-01,Shasta,089,28,43,0,2
+2020-10-01,Santa Cruz,087,23,39,0,1
+2020-10-01,Shasta,089,29,43,0,15
 2020-10-01,Siskiyou,093,1,0,0,0
-2020-10-01,Solano,095,68,170,1,15
+2020-10-01,Solano,095,68,170,1,14
 2020-10-01,Sonoma,097,262,460,1,27
-2020-10-01,Stanislaus,099,506,815,2,91
-2020-10-01,Sutter,101,28,3,0,0
+2020-10-01,Stanislaus,099,506,815,2,93
+2020-10-01,Sutter,101,29,3,0,0
 2020-10-01,Tehama,103,1,0,0,0
 2020-10-01,Trinity,105,1,0,0,0
 2020-10-01,Tulare,107,393,580,1,97
 2020-10-01,Tuolumne,109,12,0,0,0
-2020-10-01,Ventura,111,355,355,0,15
+2020-10-01,Ventura,111,357,355,0,15
 2020-10-01,Yolo,113,59,55,1,18
 2020-10-01,Yuba,115,2,1,0,1
+2020-10-02,Alameda,001,662,1107,6,94
+2020-10-02,Amador,005,23,52,0,17
+2020-10-02,Butte,007,105,160,1,7
+2020-10-02,Calaveras,009,16,50,0,1
+2020-10-02,Colusa,011,42,30,0,2
+2020-10-02,Contra Costa,013,270,452,4,55
+2020-10-02,Del Norte,015,1,0,0,0
+2020-10-02,El Dorado,017,4,2,0,0
+2020-10-02,Fresno,019,464,512,3,66
+2020-10-02,Glenn,021,1,0,0,0
+2020-10-02,Humboldt,023,4,2,1,2
+2020-10-02,Imperial,025,124,159,1,19
+2020-10-02,Inyo,027,20,54,0,1
+2020-10-02,Kern,029,474,539,0,31
+2020-10-02,Kings,031,79,91,0,23
+2020-10-02,Lake,033,24,38,0,1
+2020-10-02,Los Angeles,037,7885,11774,64,1859
+2020-10-02,Madera,039,111,195,0,21
+2020-10-02,Marin,041,198,295,2,45
+2020-10-02,Mendocino,045,5,27,1,2
+2020-10-02,Merced,047,49,85,1,2
+2020-10-02,Modoc,049,1,0,0,0
+2020-10-02,Monterey,053,109,40,0,3
+2020-10-02,Napa,055,23,52,2,12
+2020-10-02,Nevada,057,6,15,0,2
+2020-10-02,Orange,059,1796,2313,9,310
+2020-10-02,Placer,061,27,66,0,8
+2020-10-02,Plumas,063,1,0,0,0
+2020-10-02,Riverside,065,1210,1763,7,142
+2020-10-02,Sacramento,067,581,830,3,79
+2020-10-02,San Benito,069,3,3,1,3
+2020-10-02,San Bernardino,071,1129,1895,10,148
+2020-10-02,San Diego,073,929,1291,5,136
+2020-10-02,San Francisco,075,224,256,1,21
+2020-10-02,San Joaquin,077,709,1006,2,96
+2020-10-02,San Luis Obispo,079,32,29,0,4
+2020-10-02,San Mateo,081,181,311,4,47
+2020-10-02,Santa Barbara,083,142,160,1,12
+2020-10-02,Santa Clara,085,512,530,3,37
+2020-10-02,Santa Cruz,087,24,40,0,1
+2020-10-02,Shasta,089,29,43,0,16
+2020-10-02,Siskiyou,093,1,0,0,0
+2020-10-02,Solano,095,68,170,1,14
+2020-10-02,Sonoma,097,262,460,1,27
+2020-10-02,Stanislaus,099,506,815,2,93
+2020-10-02,Sutter,101,31,3,0,0
+2020-10-02,Tehama,103,1,1,0,0
+2020-10-02,Trinity,105,1,0,0,0
+2020-10-02,Tulare,107,395,580,1,97
+2020-10-02,Tuolumne,109,12,0,0,0
+2020-10-02,Ventura,111,357,359,0,15
+2020-10-02,Yolo,113,59,55,1,18
+2020-10-02,Yuba,115,2,1,0,1
+2020-10-03,Alameda,001,663,1112,6,94
+2020-10-03,Amador,005,23,52,0,17
+2020-10-03,Butte,007,105,160,1,7
+2020-10-03,Calaveras,009,16,50,0,1
+2020-10-03,Colusa,011,42,30,0,2
+2020-10-03,Contra Costa,013,270,452,4,55
+2020-10-03,Del Norte,015,1,0,0,0
+2020-10-03,El Dorado,017,4,2,0,0
+2020-10-03,Fresno,019,465,512,3,66
+2020-10-03,Glenn,021,1,0,0,0
+2020-10-03,Humboldt,023,4,2,1,2
+2020-10-03,Imperial,025,124,159,1,19
+2020-10-03,Inyo,027,20,54,0,1
+2020-10-03,Kern,029,474,539,0,31
+2020-10-03,Kings,031,79,91,0,23
+2020-10-03,Lake,033,24,38,0,1
+2020-10-03,Lassen,035,1,0,0,0
+2020-10-03,Los Angeles,037,7897,11785,65,1859
+2020-10-03,Madera,039,111,195,0,21
+2020-10-03,Marin,041,199,295,2,45
+2020-10-03,Mendocino,045,5,27,1,2
+2020-10-03,Merced,047,49,85,1,2
+2020-10-03,Modoc,049,1,0,0,0
+2020-10-03,Monterey,053,109,40,0,3
+2020-10-03,Napa,055,23,52,2,12
+2020-10-03,Nevada,057,6,15,0,2
+2020-10-03,Orange,059,1797,2315,9,311
+2020-10-03,Placer,061,27,66,0,8
+2020-10-03,Plumas,063,1,0,0,0
+2020-10-03,Riverside,065,1210,1763,7,143
+2020-10-03,Sacramento,067,581,832,3,80
+2020-10-03,San Benito,069,3,3,1,3
+2020-10-03,San Bernardino,071,1130,1896,10,148
+2020-10-03,San Diego,073,935,1294,5,136
+2020-10-03,San Francisco,075,224,256,1,21
+2020-10-03,San Joaquin,077,715,1008,2,96
+2020-10-03,San Luis Obispo,079,32,29,0,4
+2020-10-03,San Mateo,081,181,312,4,47
+2020-10-03,Santa Barbara,083,142,160,1,12
+2020-10-03,Santa Clara,085,514,530,3,37
+2020-10-03,Santa Cruz,087,25,40,0,1
+2020-10-03,Shasta,089,29,43,0,16
+2020-10-03,Siskiyou,093,1,0,0,0
+2020-10-03,Solano,095,68,170,1,14
+2020-10-03,Sonoma,097,262,460,1,27
+2020-10-03,Stanislaus,099,506,817,2,104
+2020-10-03,Sutter,101,31,3,0,0
+2020-10-03,Tehama,103,1,1,0,0
+2020-10-03,Trinity,105,1,0,0,0
+2020-10-03,Tulare,107,397,580,1,97
+2020-10-03,Tuolumne,109,12,0,0,0
+2020-10-03,Ventura,111,357,359,0,15
+2020-10-03,Yolo,113,60,55,1,18
+2020-10-03,Yuba,115,2,1,0,1
+2020-10-04,Alameda,001,663,1112,6,94
+2020-10-04,Amador,005,23,52,0,17
+2020-10-04,Butte,007,105,160,1,7
+2020-10-04,Calaveras,009,16,50,0,1
+2020-10-04,Colusa,011,42,30,0,2
+2020-10-04,Contra Costa,013,270,452,4,55
+2020-10-04,Del Norte,015,1,0,0,0
+2020-10-04,El Dorado,017,4,2,0,0
+2020-10-04,Fresno,019,465,512,3,66
+2020-10-04,Glenn,021,1,0,0,0
+2020-10-04,Humboldt,023,4,2,1,2
+2020-10-04,Imperial,025,124,159,1,19
+2020-10-04,Inyo,027,20,55,0,1
+2020-10-04,Kern,029,476,539,0,31
+2020-10-04,Kings,031,79,91,0,23
+2020-10-04,Lake,033,24,38,0,1
+2020-10-04,Lassen,035,1,0,0,0
+2020-10-04,Los Angeles,037,7905,11798,65,1860
+2020-10-04,Madera,039,111,195,0,21
+2020-10-04,Marin,041,199,296,2,45
+2020-10-04,Mendocino,045,5,27,1,2
+2020-10-04,Merced,047,49,85,1,2
+2020-10-04,Modoc,049,1,0,0,0
+2020-10-04,Monterey,053,109,41,0,3
+2020-10-04,Napa,055,23,52,2,12
+2020-10-04,Nevada,057,6,15,0,2
+2020-10-04,Orange,059,1797,2317,9,311
+2020-10-04,Placer,061,27,66,0,8
+2020-10-04,Plumas,063,1,0,0,0
+2020-10-04,Riverside,065,1210,1764,7,143
+2020-10-04,Sacramento,067,581,832,3,81
+2020-10-04,San Benito,069,3,3,1,3
+2020-10-04,San Bernardino,071,1130,1897,10,148
+2020-10-04,San Diego,073,937,1295,5,136
+2020-10-04,San Francisco,075,224,256,1,21
+2020-10-04,San Joaquin,077,715,1008,2,97
+2020-10-04,San Luis Obispo,079,33,29,0,4
+2020-10-04,San Mateo,081,181,312,4,47
+2020-10-04,Santa Barbara,083,150,174,1,12
+2020-10-04,Santa Clara,085,516,540,3,37
+2020-10-04,Santa Cruz,087,25,40,0,1
+2020-10-04,Shasta,089,29,43,0,17
+2020-10-04,Siskiyou,093,1,0,0,0
+2020-10-04,Solano,095,69,170,1,14
+2020-10-04,Sonoma,097,262,460,1,27
+2020-10-04,Stanislaus,099,508,817,2,104
+2020-10-04,Sutter,101,31,3,0,0
+2020-10-04,Tehama,103,1,1,0,0
+2020-10-04,Trinity,105,1,0,0,0
+2020-10-04,Tulare,107,397,580,1,98
+2020-10-04,Tuolumne,109,12,0,0,0
+2020-10-04,Ventura,111,358,359,0,15
+2020-10-04,Yolo,113,60,55,1,18
+2020-10-04,Yuba,115,2,1,0,1
+2020-10-05,Alameda,001,663,1112,6,94
+2020-10-05,Amador,005,23,52,0,17
+2020-10-05,Butte,007,106,160,1,7
+2020-10-05,Calaveras,009,16,50,0,1
+2020-10-05,Colusa,011,42,30,0,2
+2020-10-05,Contra Costa,013,270,452,4,55
+2020-10-05,Del Norte,015,1,0,0,0
+2020-10-05,El Dorado,017,4,2,0,0
+2020-10-05,Fresno,019,468,512,3,66
+2020-10-05,Glenn,021,1,0,0,0
+2020-10-05,Humboldt,023,4,2,1,2
+2020-10-05,Imperial,025,124,159,1,19
+2020-10-05,Inyo,027,20,55,0,1
+2020-10-05,Kern,029,477,539,0,31
+2020-10-05,Kings,031,79,91,0,23
+2020-10-05,Lake,033,24,38,0,1
+2020-10-05,Lassen,035,1,0,0,0
+2020-10-05,Los Angeles,037,7910,11809,65,1861
+2020-10-05,Madera,039,111,195,0,21
+2020-10-05,Marin,041,199,296,2,45
+2020-10-05,Mendocino,045,5,27,1,2
+2020-10-05,Merced,047,49,85,1,2
+2020-10-05,Modoc,049,1,0,0,0
+2020-10-05,Monterey,053,109,41,0,3
+2020-10-05,Napa,055,23,52,2,12
+2020-10-05,Nevada,057,6,15,0,2
+2020-10-05,Orange,059,1810,2321,9,312
+2020-10-05,Placer,061,27,66,0,8
+2020-10-05,Plumas,063,1,0,0,0
+2020-10-05,Riverside,065,1212,1766,7,143
+2020-10-05,Sacramento,067,581,833,3,81
+2020-10-05,San Benito,069,3,3,1,3
+2020-10-05,San Bernardino,071,1130,1897,10,148
+2020-10-05,San Diego,073,940,1295,5,136
+2020-10-05,San Francisco,075,224,256,1,31
+2020-10-05,San Joaquin,077,715,1008,2,97
+2020-10-05,San Luis Obispo,079,33,29,0,4
+2020-10-05,San Mateo,081,196,335,4,47
+2020-10-05,Santa Barbara,083,150,174,1,12
+2020-10-05,Santa Clara,085,532,542,3,38
+2020-10-05,Santa Cruz,087,28,42,0,1
+2020-10-05,Shasta,089,30,44,0,18
+2020-10-05,Siskiyou,093,1,0,0,0
+2020-10-05,Solano,095,70,170,1,14
+2020-10-05,Sonoma,097,265,460,1,27
+2020-10-05,Stanislaus,099,508,818,2,104
+2020-10-05,Sutter,101,31,3,0,0
+2020-10-05,Tehama,103,1,1,0,0
+2020-10-05,Trinity,105,1,0,0,0
+2020-10-05,Tulare,107,397,580,1,99
+2020-10-05,Tuolumne,109,12,0,0,0
+2020-10-05,Ventura,111,358,371,0,15
+2020-10-05,Yolo,113,60,56,1,18
+2020-10-05,Yuba,115,2,1,0,1
+2020-10-06,Alameda,001,664,1114,6,94
+2020-10-06,Amador,005,23,52,0,17
+2020-10-06,Butte,007,106,160,1,7
+2020-10-06,Calaveras,009,16,50,0,1
+2020-10-06,Colusa,011,42,30,0,2
+2020-10-06,Contra Costa,013,270,452,4,55
+2020-10-06,Del Norte,015,1,0,0,0
+2020-10-06,El Dorado,017,4,2,0,0
+2020-10-06,Fresno,019,468,512,3,66
+2020-10-06,Glenn,021,1,0,0,0
+2020-10-06,Humboldt,023,4,2,1,2
+2020-10-06,Imperial,025,124,159,1,19
+2020-10-06,Inyo,027,20,55,0,1
+2020-10-06,Kern,029,478,540,0,32
+2020-10-06,Kings,031,79,91,0,23
+2020-10-06,Lake,033,24,38,0,1
+2020-10-06,Lassen,035,1,0,0,0
+2020-10-06,Los Angeles,037,7912,11816,65,1861
+2020-10-06,Madera,039,111,195,0,21
+2020-10-06,Marin,041,200,297,2,45
+2020-10-06,Mendocino,045,5,27,1,2
+2020-10-06,Merced,047,49,85,1,2
+2020-10-06,Modoc,049,1,0,0,0
+2020-10-06,Monterey,053,109,41,0,3
+2020-10-06,Napa,055,23,52,2,12
+2020-10-06,Nevada,057,6,15,0,2
+2020-10-06,Orange,059,1813,2331,9,313
+2020-10-06,Placer,061,27,66,0,8
+2020-10-06,Plumas,063,1,0,0,0
+2020-10-06,Riverside,065,1213,1768,7,144
+2020-10-06,Sacramento,067,583,833,3,81
+2020-10-06,San Benito,069,3,3,1,3
+2020-10-06,San Bernardino,071,1139,1914,10,148
+2020-10-06,San Diego,073,952,1295,5,136
+2020-10-06,San Francisco,075,225,256,1,31
+2020-10-06,San Joaquin,077,716,1008,2,97
+2020-10-06,San Luis Obispo,079,33,29,0,4
+2020-10-06,San Mateo,081,196,335,4,47
+2020-10-06,Santa Barbara,083,150,174,1,12
+2020-10-06,Santa Clara,085,534,543,3,38
+2020-10-06,Santa Cruz,087,28,42,0,1
+2020-10-06,Shasta,089,30,75,0,18
+2020-10-06,Siskiyou,093,1,0,0,0
+2020-10-06,Solano,095,70,170,1,14
+2020-10-06,Sonoma,097,266,460,1,27
+2020-10-06,Stanislaus,099,509,818,2,104
+2020-10-06,Sutter,101,31,3,0,0
+2020-10-06,Tehama,103,1,1,0,0
+2020-10-06,Trinity,105,1,0,0,0
+2020-10-06,Tulare,107,398,580,1,99
+2020-10-06,Tuolumne,109,12,0,0,0
+2020-10-06,Ventura,111,369,371,0,15
+2020-10-06,Yolo,113,61,58,1,18
+2020-10-06,Yuba,115,2,1,0,1
+2020-10-07,Alameda,001,664,1114,6,94
+2020-10-07,Amador,005,23,52,0,17
+2020-10-07,Butte,007,106,160,1,7
+2020-10-07,Calaveras,009,16,50,0,1
+2020-10-07,Colusa,011,42,30,0,2
+2020-10-07,Contra Costa,013,270,452,4,55
+2020-10-07,Del Norte,015,1,0,0,0
+2020-10-07,El Dorado,017,4,2,0,0
+2020-10-07,Fresno,019,468,512,3,66
+2020-10-07,Glenn,021,1,0,0,0
+2020-10-07,Humboldt,023,4,2,1,2
+2020-10-07,Imperial,025,124,159,1,19
+2020-10-07,Inyo,027,20,55,0,1
+2020-10-07,Kern,029,478,540,0,32
+2020-10-07,Kings,031,79,91,0,23
+2020-10-07,Lake,033,24,59,0,1
+2020-10-07,Lassen,035,1,0,0,0
+2020-10-07,Los Angeles,037,7937,11819,65,1864
+2020-10-07,Madera,039,111,195,0,21
+2020-10-07,Marin,041,200,297,2,45
+2020-10-07,Mendocino,045,5,27,1,2
+2020-10-07,Merced,047,49,85,1,2
+2020-10-07,Modoc,049,1,0,0,0
+2020-10-07,Monterey,053,109,41,0,3
+2020-10-07,Napa,055,23,52,2,12
+2020-10-07,Nevada,057,6,15,0,2
+2020-10-07,Orange,059,1817,2334,9,313
+2020-10-07,Placer,061,27,66,0,8
+2020-10-07,Plumas,063,1,0,0,0
+2020-10-07,Riverside,065,1213,1771,7,145
+2020-10-07,Sacramento,067,586,837,3,81
+2020-10-07,San Benito,069,3,3,1,3
+2020-10-07,San Bernardino,071,1144,1918,10,148
+2020-10-07,San Diego,073,957,1309,5,136
+2020-10-07,San Francisco,075,226,256,1,31
+2020-10-07,San Joaquin,077,717,1008,2,97
+2020-10-07,San Luis Obispo,079,33,29,0,4
+2020-10-07,San Mateo,081,196,336,4,47
+2020-10-07,Santa Barbara,083,152,175,1,12
+2020-10-07,Santa Clara,085,541,551,3,38
+2020-10-07,Santa Cruz,087,29,42,0,1
+2020-10-07,Shasta,089,30,78,0,18
+2020-10-07,Siskiyou,093,1,0,0,0
+2020-10-07,Solano,095,70,170,1,14
+2020-10-07,Sonoma,097,266,460,1,27
+2020-10-07,Stanislaus,099,512,818,2,104
+2020-10-07,Sutter,101,31,3,0,0
+2020-10-07,Tehama,103,1,1,0,0
+2020-10-07,Trinity,105,1,0,0,0
+2020-10-07,Tulare,107,398,581,1,99
+2020-10-07,Tuolumne,109,12,0,0,0
+2020-10-07,Ventura,111,371,371,1,15
+2020-10-07,Yolo,113,61,58,1,18
+2020-10-07,Yuba,115,2,1,0,1
+2020-10-08,Alameda,001,664,1114,6,94
+2020-10-08,Amador,005,23,52,0,17
+2020-10-08,Butte,007,106,160,1,7
+2020-10-08,Calaveras,009,16,50,0,1
+2020-10-08,Colusa,011,42,30,0,2
+2020-10-08,Contra Costa,013,270,452,4,55
+2020-10-08,Del Norte,015,1,0,0,0
+2020-10-08,El Dorado,017,4,2,0,0
+2020-10-08,Fresno,019,468,514,3,66
+2020-10-08,Glenn,021,1,0,0,0
+2020-10-08,Humboldt,023,4,2,1,2
+2020-10-08,Imperial,025,124,159,1,19
+2020-10-08,Inyo,027,20,55,0,1
+2020-10-08,Kern,029,478,540,0,32
+2020-10-08,Kings,031,79,91,0,23
+2020-10-08,Lake,033,24,63,0,1
+2020-10-08,Lassen,035,1,0,0,0
+2020-10-08,Los Angeles,037,7944,11835,65,1866
+2020-10-08,Madera,039,111,195,0,21
+2020-10-08,Marin,041,200,297,2,45
+2020-10-08,Mendocino,045,5,27,1,2
+2020-10-08,Merced,047,49,85,1,2
+2020-10-08,Modoc,049,1,0,0,0
+2020-10-08,Monterey,053,109,41,0,3
+2020-10-08,Napa,055,23,52,2,12
+2020-10-08,Nevada,057,6,15,0,2
+2020-10-08,Orange,059,1817,2339,9,315
+2020-10-08,Placer,061,27,66,0,8
+2020-10-08,Plumas,063,1,0,0,0
+2020-10-08,Riverside,065,1215,1772,7,146
+2020-10-08,Sacramento,067,586,837,3,81
+2020-10-08,San Benito,069,3,3,1,3
+2020-10-08,San Bernardino,071,1146,1926,10,148
+2020-10-08,San Diego,073,961,1312,5,136
+2020-10-08,San Francisco,075,228,257,1,32
+2020-10-08,San Joaquin,077,717,1010,2,97
+2020-10-08,San Luis Obispo,079,33,29,0,4
+2020-10-08,San Mateo,081,196,336,4,47
+2020-10-08,Santa Barbara,083,154,177,1,12
+2020-10-08,Santa Clara,085,547,551,3,38
+2020-10-08,Santa Cruz,087,29,42,0,1
+2020-10-08,Shasta,089,33,78,0,18
+2020-10-08,Siskiyou,093,1,0,0,0
+2020-10-08,Solano,095,71,170,1,14
+2020-10-08,Sonoma,097,266,460,1,27
+2020-10-08,Stanislaus,099,512,818,2,104
+2020-10-08,Sutter,101,32,3,0,0
+2020-10-08,Tehama,103,1,1,0,0
+2020-10-08,Trinity,105,1,0,0,0
+2020-10-08,Tulare,107,399,584,1,99
+2020-10-08,Tuolumne,109,12,0,0,0
+2020-10-08,Ventura,111,372,371,1,15
+2020-10-08,Yolo,113,61,58,1,18
+2020-10-08,Yuba,115,2,1,0,1
+2020-10-09,Alameda,001,664,1114,6,94
+2020-10-09,Amador,005,23,52,0,17
+2020-10-09,Butte,007,106,160,1,7
+2020-10-09,Calaveras,009,16,50,0,1
+2020-10-09,Colusa,011,42,30,0,2
+2020-10-09,Contra Costa,013,270,452,4,55
+2020-10-09,Del Norte,015,1,0,0,0
+2020-10-09,El Dorado,017,4,2,0,0
+2020-10-09,Fresno,019,468,514,3,66
+2020-10-09,Glenn,021,1,0,0,0
+2020-10-09,Humboldt,023,4,2,1,2
+2020-10-09,Imperial,025,124,159,1,19
+2020-10-09,Inyo,027,20,55,0,1
+2020-10-09,Kern,029,478,540,0,32
+2020-10-09,Kings,031,79,91,0,23
+2020-10-09,Lake,033,24,63,0,1
+2020-10-09,Lassen,035,1,0,0,0
+2020-10-09,Los Angeles,037,7946,11838,65,1867
+2020-10-09,Madera,039,111,195,0,21
+2020-10-09,Marin,041,200,297,2,45
+2020-10-09,Mendocino,045,5,27,1,2
+2020-10-09,Merced,047,49,85,1,2
+2020-10-09,Modoc,049,1,0,0,0
+2020-10-09,Monterey,053,109,41,0,3
+2020-10-09,Napa,055,23,52,2,12
+2020-10-09,Nevada,057,6,15,0,2
+2020-10-09,Orange,059,1819,2352,10,315
+2020-10-09,Placer,061,27,66,0,8
+2020-10-09,Plumas,063,1,0,0,0
+2020-10-09,Riverside,065,1215,1772,7,146
+2020-10-09,Sacramento,067,586,837,3,81
+2020-10-09,San Benito,069,3,3,1,3
+2020-10-09,San Bernardino,071,1146,1926,10,148
+2020-10-09,San Diego,073,961,1312,5,136
+2020-10-09,San Francisco,075,228,257,1,32
+2020-10-09,San Joaquin,077,717,1010,2,97
+2020-10-09,San Luis Obispo,079,33,29,0,4
+2020-10-09,San Mateo,081,196,336,4,47
+2020-10-09,Santa Barbara,083,154,177,1,12
+2020-10-09,Santa Clara,085,547,551,3,38
+2020-10-09,Santa Cruz,087,29,42,0,1
+2020-10-09,Shasta,089,33,78,0,18
+2020-10-09,Siskiyou,093,1,0,0,0
+2020-10-09,Solano,095,71,170,1,14
+2020-10-09,Sonoma,097,266,460,1,27
+2020-10-09,Stanislaus,099,513,818,2,104
+2020-10-09,Sutter,101,32,3,0,0
+2020-10-09,Tehama,103,1,1,0,0
+2020-10-09,Trinity,105,1,0,0,0
+2020-10-09,Tulare,107,399,584,1,99
+2020-10-09,Tuolumne,109,12,0,0,0
+2020-10-09,Ventura,111,372,373,1,15
+2020-10-09,Yolo,113,61,58,1,18
+2020-10-09,Yuba,115,2,1,0,1
